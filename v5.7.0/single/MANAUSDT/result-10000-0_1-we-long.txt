@@ -6,72 +6,72 @@
 | Exchange                    | binance   |
 | Market type                 | futures   |
 | Symbol                      | MANAUSDT  |
-| No. days                    | 489.708   |
+| No. days                    | 490.708   |
 | Starting balance            | 10000.0   |
 |                             |           |
 | Long                        | True      |
-| ADG realized per exposure   | 0.359%    |
-| Final balance               | 11920.0   |
-| Final equity                | 11919.7   |
-| Net PNL + fees              | 1919.95   |
-| Total gain                  | 20.02%    |
-| Average daily gain          | 0.0357%   |
-| DG mean std ratio           | 0.1835    |
-| Price action distance mean  | 0.0317685 |
-| Price action distance std   | 0.0686892 |
-| Price action distance max   | 1.07381   |
+| ADG realized per exposure   | 0.381%    |
+| Final balance               | 12054.9   |
+| Final equity                | 12054.9   |
+| Net PNL + fees              | 2054.89   |
+| Total gain                  | 21.57%    |
+| Average daily gain          | 0.0381%   |
+| DG mean std ratio           | 0.234     |
+| Price action distance mean  | 0.0123357 |
+| Price action distance std   | 0.0181125 |
+| Price action distance max   | 1.42983   |
 | Closest bankruptcy          | 100.0%    |
-| Lowest equity/balance ratio | 0.9482    |
-| Equity/balance ratio std    | 0.005497  |
-| No. fills                   | 27061     |
-| No. entries                 | 14591     |
-| No. closes                  | 12470     |
-| No. initial entries         | 11518     |
-| No. reentries               | 3073      |
-| No. unstuck entries         | 0         |
-| No. unstuck closes          | 48        |
-| No. normal closes           | 12422     |
-| Average n fills per day     | 55.3      |
-| Mean hours stuck            | 1.11923   |
-| Max hours stuck             | 1229.35   |
-| PNL sum                     | 2002.0    |
-| Profit sum                  | 2003.0    |
-| Loss sum                    | -1.164    |
-| Fee sum                     | -81.88    |
-| Biggest pos size            | 2633.3    |
-| Biggest pos cost            | 1191.0    |
-| Volume quote                | 818815.0  |
+| Lowest equity/balance ratio | 0.9412    |
+| Equity/balance ratio std    | 0.001264  |
+| No. fills                   | 28200     |
+| No. entries                 | 15058     |
+| No. closes                  | 13142     |
+| No. initial entries         | 12043     |
+| No. reentries               | 2828      |
+| No. unstuck entries         | 187       |
+| No. unstuck closes          | 185       |
+| No. normal closes           | 12957     |
+| Average n fills per day     | 57.5      |
+| Mean hours stuck            | 1.06695   |
+| Max hours stuck             | 70.5833   |
+| PNL sum                     | 2157.0    |
+| Profit sum                  | 2209.0    |
+| Loss sum                    | -51.64    |
+| Fee sum                     | -102.4    |
+| Biggest pos size            | 2544.3    |
+| Biggest pos cost            | 1204.0    |
+| Volume quote                | 1024320.0 |
 |                             |           |
 | Short                       | True      |
-| ADG realized per exposure   | 0.343%    |
-| Final balance               | 11826.0   |
-| Final equity                | 11826.0   |
-| Net PNL + fees              | 1825.99   |
-| Total gain                  | 19.07%    |
-| Average daily gain          | 0.0343%   |
-| DG mean std ratio           | 0.2752    |
-| Price action distance mean  | 0.0105156 |
-| Price action distance std   | 0.0110986 |
-| Price action distance max   | 0.175014  |
+| ADG realized per exposure   | 0.122%    |
+| Final balance               | 10614.7   |
+| Final equity                | 10612.7   |
+| Net PNL + fees              | 614.664   |
+| Total gain                  | 6.865%    |
+| Average daily gain          | 0.0144%   |
+| DG mean std ratio           | 0.02206   |
+| Price action distance mean  | 0.0176537 |
+| Price action distance std   | 0.0465247 |
+| Price action distance max   | 0.641053  |
 | Closest bankruptcy          | 100.0%    |
-| Lowest equity/balance ratio | 0.9788    |
-| Equity/balance ratio std    | 0.000948  |
-| No. fills                   | 28496     |
-| No. entries                 | 17376     |
-| No. closes                  | 11120     |
-| No. initial entries         | 10256     |
-| No. reentries               | 6884      |
-| No. unstuck entries         | 236       |
-| No. unstuck closes          | 171       |
-| No. normal closes           | 10949     |
-| Average n fills per day     | 58.2      |
-| Mean hours stuck            | 0.78668   |
-| Max hours stuck             | 81.1333   |
-| PNL sum                     | 1907.0    |
-| Profit sum                  | 1922.0    |
-| Loss sum                    | -14.84    |
-| Fee sum                     | -80.7     |
-| Biggest pos size            | 2055.4    |
-| Biggest pos cost            | 1173.0    |
-| Volume quote                | 806952.0  |
+| Lowest equity/balance ratio | 0.8214    |
+| Equity/balance ratio std    | 0.0084    |
+| No. fills                   | 28418     |
+| No. entries                 | 17246     |
+| No. closes                  | 11172     |
+| No. initial entries         | 9484      |
+| No. reentries               | 7424      |
+| No. unstuck entries         | 338       |
+| No. unstuck closes          | 393       |
+| No. normal closes           | 10779     |
+| Average n fills per day     | 57.9      |
+| Mean hours stuck            | 0.790934  |
+| Max hours stuck             | 89.7167   |
+| PNL sum                     | 686.5     |
+| Profit sum                  | 1507.0    |
+| Loss sum                    | -820.9    |
+| Fee sum                     | -71.86    |
+| Biggest pos size            | 2045.2    |
+| Biggest pos cost            | 1068.0    |
+| Volume quote                | 718631.0  |
 +-----------------------------+-----------+

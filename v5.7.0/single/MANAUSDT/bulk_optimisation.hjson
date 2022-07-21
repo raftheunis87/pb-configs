@@ -23,10 +23,10 @@ coin_list : [
     {coin : "DOGEUSDT"},
 ]
 "override_bt_and_opti" : {
-    starting_balance : 800,
+    starting_balance : 825,
     ohlc : false,
-    start_date : 2016-01-01,  
-    end_date : 2022-07-18,
+    start_date : 2016-01-01,
+    end_date : 2022-07-19,
 }
 "override_harmony_config" : {
     // # allow to subdefine all parameters
