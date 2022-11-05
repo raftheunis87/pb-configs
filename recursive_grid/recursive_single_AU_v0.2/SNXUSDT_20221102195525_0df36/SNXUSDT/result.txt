@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | SNXUSDT   |
+| No. days                    | 808.706   |
+| Starting balance            | 878.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.153%    |
+| Final balance               | 1123.75   |
+| Final equity                | 1123.75   |
+| Net PNL + fees              | 245.749   |
+| Total gain                  | 29.01%    |
+| Average daily gain          | 0.0306%   |
+| Loss to profit ratio        | 0.03663   |
+| Price action distance mean  | 0.0113372 |
+| Price action distance std   | 0.0118563 |
+| Price action distance max   | 0.526271  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9306    |
+| Equity/balance ratio std    | 0.001252  |
+| No. fills                   | 30544     |
+| No. entries                 | 23088     |
+| No. closes                  | 7456      |
+| No. initial entries         | 6327      |
+| No. reentries               | 16703     |
+| No. unstuck entries         | 58        |
+| No. unstuck closes          | 148       |
+| No. normal closes           | 7308      |
+| Average n fills per day     | 37.8      |
+| Mean hours stuck            | 1.01676   |
+| Max hours stuck             | 88.55     |
+| PNL sum                     | 254.7     |
+| Profit sum                  | 264.4     |
+| Loss sum                    | -9.685    |
+| Fee sum                     | -8.995    |
+| Biggest pos size            | 100.9     |
+| Biggest pos cost            | 225.1     |
+| Volume quote                | 89952.7   |
++-----------------------------+-----------+
