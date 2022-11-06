@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | AUDIOUSDT  |
+| No. days                    | 438.853    |
+| Starting balance            | 878.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.164%     |
+| Final balance               | 1013.85    |
+| Final equity                | 1013.85    |
+| Net PNL + fees              | 135.854    |
+| Total gain                  | 16.15%     |
+| Average daily gain          | 0.033%     |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.00991249 |
+| Price action distance std   | 0.00985602 |
+| Price action distance max   | 0.176086   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.97       |
+| Equity/balance ratio std    | 0.001254   |
+| No. fills                   | 11964      |
+| No. entries                 | 6808       |
+| No. closes                  | 5156       |
+| No. initial entries         | 4937       |
+| No. reentries               | 1743       |
+| No. unstuck entries         | 128        |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 5156       |
+| Average n fills per day     | 27.3       |
+| Mean hours stuck            | 1.37231    |
+| Max hours stuck             | 46.3       |
+| PNL sum                     | 141.8      |
+| Profit sum                  | 141.8      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -5.948     |
+| Biggest pos size            | 1106.9     |
+| Biggest pos cost            | 202.4      |
+| Volume quote                | 59476.1    |
++-----------------------------+------------+
