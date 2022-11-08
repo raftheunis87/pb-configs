@@ -1,0 +1,45 @@
++-------------------------------------------------+
+|                     Summary                     |
++-----------------------------+-------------------+
+| Metric                      | Value             |
++-----------------------------+-------------------+
+| Exchange                    | binance           |
+| Market type                 | futures           |
+| Symbol                      | CHZUSDT           |
+| No. days                    | 648.708           |
+| Starting balance            | 878.0             |
+|                             |                   |
+| Long                        | True              |
+| ADG realized per exposure   | 0.459%            |
+| Final balance               | 1592.62           |
+| Final equity                | 1592.61           |
+| Net PNL + fees              | 714.623           |
+| Total gain                  | 86.16%            |
+| Average daily gain          | 0.0922%           |
+| DG mean std ratio           | 0.2508            |
+| Price action distance mean  | 0.00762443        |
+| Price action distance std   | 0.0139303         |
+| Price action distance max   | 1.81253           |
+| Closest bankruptcy          | 100.0%            |
+| Lowest equity/balance ratio | 0.871             |
+| Equity/balance ratio std    | 0.001902          |
+| No. fills                   | 55924             |
+| No. entries                 | 31545             |
+| No. closes                  | 24379             |
+| No. initial entries         | 12373             |
+| No. reentries               | 16449             |
+| No. unstuck entries         | 2723              |
+| No. unstuck closes          | 8947              |
+| No. normal closes           | 15432             |
+| Average n fills per day     | 86.2              |
+| Mean hours stuck            | 0.639305          |
+| Max hours stuck             | 72.6333           |
+| PNL sum                     | 756.5             |
+| Profit sum                  | 1332.0            |
+| Loss sum                    | -575.6            |
+| Fee sum                     | -41.85            |
+| Biggest pos size            | 9776.0            |
+| Biggest pos cost            | 319.3             |
+| Volume quote                | 418516.0          |
+| Krishna score               | 6170.738479076381 |
++-----------------------------+-------------------+

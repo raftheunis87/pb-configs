@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | COTIUSDT  |
+| No. days                    | 600.708   |
+| Starting balance            | 878.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.342%    |
+| Final balance               | 1324.35   |
+| Final equity                | 1324.31   |
+| Net PNL + fees              | 446.347   |
+| Total gain                  | 52.95%    |
+| Average daily gain          | 0.0685%   |
+| Loss to profit ratio        | 0.2681    |
+| Price action distance mean  | 0.0113756 |
+| Price action distance std   | 0.0130024 |
+| Price action distance max   | 1.04141   |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.8978    |
+| Equity/balance ratio std    | 0.001604  |
+| No. fills                   | 19377     |
+| No. entries                 | 10188     |
+| No. closes                  | 9189      |
+| No. initial entries         | 7049      |
+| No. reentries               | 2657      |
+| No. unstuck entries         | 482       |
+| No. unstuck closes          | 1062      |
+| No. normal closes           | 8127      |
+| Average n fills per day     | 32.3      |
+| Mean hours stuck            | 1.96336   |
+| Max hours stuck             | 72.3833   |
+| PNL sum                     | 464.9     |
+| Profit sum                  | 635.2     |
+| Loss sum                    | -170.3    |
+| Fee sum                     | -18.58    |
+| Biggest pos size            | 3041.0    |
+| Biggest pos cost            | 264.5     |
+| Volume quote                | 185782.0  |
++-----------------------------+-----------+

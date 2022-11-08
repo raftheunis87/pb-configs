@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | ONEUSDT   |
+| No. days                    | 592.708   |
+| Starting balance            | 878.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.275%    |
+| Final balance               | 1216.58   |
+| Final equity                | 1216.55   |
+| Net PNL + fees              | 338.579   |
+| Total gain                  | 40.23%    |
+| Average daily gain          | 0.0552%   |
+| Loss to profit ratio        | 0.0       |
+| Price action distance mean  | 0.0128558 |
+| Price action distance std   | 0.0128042 |
+| Price action distance max   | 0.931767  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9034    |
+| Equity/balance ratio std    | 0.00153   |
+| No. fills                   | 25494     |
+| No. entries                 | 13917     |
+| No. closes                  | 11577     |
+| No. initial entries         | 11133     |
+| No. reentries               | 2784      |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 11577     |
+| Average n fills per day     | 43.0      |
+| Mean hours stuck            | 1.78236   |
+| Max hours stuck             | 88.1167   |
+| PNL sum                     | 353.2     |
+| Profit sum                  | 353.2     |
+| Loss sum                    | 0.0       |
+| Fee sum                     | -14.64    |
+| Biggest pos size            | 14509.0   |
+| Biggest pos cost            | 243.1     |
+| Volume quote                | 146387.0  |
++-----------------------------+-----------+

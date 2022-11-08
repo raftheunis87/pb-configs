@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | HBARUSDT   |
+| No. days                    | 593.708    |
+| Starting balance            | 878.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.414%     |
+| Final balance               | 1434.54    |
+| Final equity                | 1434.43    |
+| Net PNL + fees              | 556.54     |
+| Total gain                  | 65.97%     |
+| Average daily gain          | 0.0831%    |
+| Loss to profit ratio        | 0.187      |
+| Price action distance mean  | 0.00744724 |
+| Price action distance std   | 0.0118161  |
+| Price action distance max   | 0.950422   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9024     |
+| Equity/balance ratio std    | 0.001894   |
+| No. fills                   | 24769      |
+| No. entries                 | 13178      |
+| No. closes                  | 11591      |
+| No. initial entries         | 7044       |
+| No. reentries               | 5032       |
+| No. unstuck entries         | 1102       |
+| No. unstuck closes          | 1806       |
+| No. normal closes           | 9785       |
+| Average n fills per day     | 41.7       |
+| Mean hours stuck            | 1.20642    |
+| Max hours stuck             | 73.3333    |
+| PNL sum                     | 579.2      |
+| Profit sum                  | 712.4      |
+| Loss sum                    | -133.2     |
+| Fee sum                     | -22.66     |
+| Biggest pos size            | 4929.0     |
+| Biggest pos cost            | 286.8      |
+| Volume quote                | 226591.0   |
++-----------------------------+------------+

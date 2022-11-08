@@ -1,0 +1,45 @@
++--------------------------------------------------+
+|                     Summary                      |
++-----------------------------+--------------------+
+| Metric                      | Value              |
++-----------------------------+--------------------+
+| Exchange                    | binance            |
+| Market type                 | futures            |
+| Symbol                      | SKLUSDT            |
+| No. days                    | 692.683            |
+| Starting balance            | 878.0              |
+|                             |                    |
+| Long                        | True               |
+| ADG realized per exposure   | 0.19%              |
+| Final balance               | 1141.79            |
+| Final equity                | 1141.75            |
+| Net PNL + fees              | 263.795            |
+| Total gain                  | 30.89%             |
+| Average daily gain          | 0.0381%            |
+| DG mean std ratio           | 0.2338             |
+| Price action distance mean  | 0.0134039          |
+| Price action distance std   | 0.0128906          |
+| Price action distance max   | 0.628763           |
+| Closest bankruptcy          | 100.0%             |
+| Lowest equity/balance ratio | 0.9226             |
+| Equity/balance ratio std    | 0.001395           |
+| No. fills                   | 13501              |
+| No. entries                 | 7751               |
+| No. closes                  | 5750               |
+| No. initial entries         | 5460               |
+| No. reentries               | 2173               |
+| No. unstuck entries         | 118                |
+| No. unstuck closes          | 62                 |
+| No. normal closes           | 5688               |
+| Average n fills per day     | 19.5               |
+| Mean hours stuck            | 1.73333            |
+| Max hours stuck             | 96.7333            |
+| PNL sum                     | 271.2              |
+| Profit sum                  | 271.6              |
+| Loss sum                    | -0.4063            |
+| Fee sum                     | -7.414             |
+| Biggest pos size            | 6152.0             |
+| Biggest pos cost            | 227.5              |
+| Volume quote                | 74144.0            |
+| Krishna score               | 4456.8988331190085 |
++-----------------------------+--------------------+

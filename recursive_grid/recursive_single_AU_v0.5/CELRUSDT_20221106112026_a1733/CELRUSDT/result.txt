@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | CELRUSDT  |
+| No. days                    | 581.708   |
+| Starting balance            | 878.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.212%    |
+| Final balance               | 1124.06   |
+| Final equity                | 1124.06   |
+| Net PNL + fees              | 246.058   |
+| Total gain                  | 28.76%    |
+| Average daily gain          | 0.0427%   |
+| Loss to profit ratio        | 0.0       |
+| Price action distance mean  | 0.0122787 |
+| Price action distance std   | 0.0102092 |
+| Price action distance max   | 0.346456  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9485    |
+| Equity/balance ratio std    | 0.000709  |
+| No. fills                   | 10442     |
+| No. entries                 | 6443      |
+| No. closes                  | 3999      |
+| No. initial entries         | 3734      |
+| No. reentries               | 2283      |
+| No. unstuck entries         | 426       |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 3999      |
+| Average n fills per day     | 18.0      |
+| Mean hours stuck            | 1.93018   |
+| Max hours stuck             | 81.3667   |
+| PNL sum                     | 252.5     |
+| Profit sum                  | 252.5     |
+| Loss sum                    | 0.0       |
+| Fee sum                     | -6.421    |
+| Biggest pos size            | 18339.0   |
+| Biggest pos cost            | 224.5     |
+| Volume quote                | 64210.8   |
++-----------------------------+-----------+
