@@ -1,0 +1,45 @@
++--------------------------------------------------+
+|                     Summary                      |
++-----------------------------+--------------------+
+| Metric                      | Value              |
++-----------------------------+--------------------+
+| Exchange                    | binance            |
+| Market type                 | futures            |
+| Symbol                      | AUDIOUSDT          |
+| No. days                    | 438.853            |
+| Starting balance            | 750.0              |
+|                             |                    |
+| Long                        | True               |
+| ADG realized per exposure   | 0.257%             |
+| Final balance               | 939.562            |
+| Final equity                | 939.56             |
+| Net PNL + fees              | 189.562            |
+| Total gain                  | 25.63%             |
+| Average daily gain          | 0.0517%            |
+| DG mean std ratio           | 0.2431             |
+| Price action distance mean  | 0.0127103          |
+| Price action distance std   | 0.0104031          |
+| Price action distance max   | 0.234815           |
+| Closest bankruptcy          | 100.0%             |
+| Lowest equity/balance ratio | 0.9619             |
+| Equity/balance ratio std    | 0.0009944          |
+| No. fills                   | 20457              |
+| No. entries                 | 6569               |
+| No. closes                  | 13888              |
+| No. initial entries         | 5533               |
+| No. reentries               | 1036               |
+| No. unstuck entries         | 0                  |
+| No. unstuck closes          | 0                  |
+| No. normal closes           | 13888              |
+| Average n fills per day     | 46.6               |
+| Mean hours stuck            | 1.21777            |
+| Max hours stuck             | 60.3667            |
+| PNL sum                     | 192.3              |
+| Profit sum                  | 192.3              |
+| Loss sum                    | 0.0                |
+| Fee sum                     | -2.699             |
+| Biggest pos size            | 1008.0             |
+| Biggest pos cost            | 188.0              |
+| Volume quote                | 26988.5            |
+| Krishna score               | 3797.4967998246952 |
++-----------------------------+--------------------+
