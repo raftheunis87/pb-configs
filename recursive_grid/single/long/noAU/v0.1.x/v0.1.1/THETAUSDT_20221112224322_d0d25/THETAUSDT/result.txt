@@ -1,0 +1,45 @@
++-------------------------------------------------+
+|                     Summary                     |
++-----------------------------+-------------------+
+| Metric                      | Value             |
++-----------------------------+-------------------+
+| Exchange                    | binance           |
+| Market type                 | futures           |
+| Symbol                      | THETAUSDT         |
+| No. days                    | 887.665           |
+| Starting balance            | 750.0             |
+|                             |                   |
+| Long                        | True              |
+| ADG realized per exposure   | 0.302%            |
+| Final balance               | 1282.78           |
+| Final equity                | 1282.78           |
+| Net PNL + fees              | 532.776           |
+| Total gain                  | 72.52%            |
+| Average daily gain          | 0.0598%           |
+| DG mean std ratio           | 0.2552            |
+| Price action distance mean  | 0.0101577         |
+| Price action distance std   | 0.00995254        |
+| Price action distance max   | 0.946535          |
+| Closest bankruptcy          | 100.0%            |
+| Lowest equity/balance ratio | 0.9025            |
+| Equity/balance ratio std    | 0.001303          |
+| No. fills                   | 69235             |
+| No. entries                 | 23173             |
+| No. closes                  | 46062             |
+| No. initial entries         | 19538             |
+| No. reentries               | 3635              |
+| No. unstuck entries         | 0                 |
+| No. unstuck closes          | 0                 |
+| No. normal closes           | 46062             |
+| Average n fills per day     | 78.0              |
+| Mean hours stuck            | 0.825096          |
+| Max hours stuck             | 88.1833           |
+| PNL sum                     | 543.9             |
+| Profit sum                  | 543.9             |
+| Loss sum                    | 0.0               |
+| Fee sum                     | -11.1             |
+| Biggest pos size            | 770.2             |
+| Biggest pos cost            | 254.6             |
+| Volume quote                | 111001.0          |
+| Krishna score               | 5111.377974773149 |
++-----------------------------+-------------------+
