@@ -1,0 +1,45 @@
++-------------------------------------------------+
+|                     Summary                     |
++-----------------------------+-------------------+
+| Metric                      | Value             |
++-----------------------------+-------------------+
+| Exchange                    | binance           |
+| Market type                 | futures           |
+| Symbol                      | VETUSDT           |
+| No. days                    | 990.665           |
+| Starting balance            | 750.0             |
+|                             |                   |
+| Long                        | True              |
+| ADG realized per exposure   | 0.211%            |
+| Final balance               | 1139.45           |
+| Final equity                | 1139.44           |
+| Net PNL + fees              | 389.447           |
+| Total gain                  | 53.22%            |
+| Average daily gain          | 0.0425%           |
+| DG mean std ratio           | 0.2117            |
+| Price action distance mean  | 0.00897582        |
+| Price action distance std   | 0.00986747        |
+| Price action distance max   | 0.644053          |
+| Closest bankruptcy          | 100.0%            |
+| Lowest equity/balance ratio | 0.9216            |
+| Equity/balance ratio std    | 0.001373          |
+| No. fills                   | 131205            |
+| No. entries                 | 53112             |
+| No. closes                  | 78093             |
+| No. initial entries         | 47496             |
+| No. reentries               | 5616              |
+| No. unstuck entries         | 0                 |
+| No. unstuck closes          | 0                 |
+| No. normal closes           | 78093             |
+| Average n fills per day     | 132.0             |
+| Mean hours stuck            | 0.612877          |
+| Max hours stuck             | 87.4667           |
+| PNL sum                     | 399.2             |
+| Profit sum                  | 399.2             |
+| Loss sum                    | 0.0               |
+| Fee sum                     | -9.738            |
+| Biggest pos size            | 70822.0           |
+| Biggest pos cost            | 227.1             |
+| Volume quote                | 97375.9           |
+| Krishna score               | 4559.218163121827 |
++-----------------------------+-------------------+
