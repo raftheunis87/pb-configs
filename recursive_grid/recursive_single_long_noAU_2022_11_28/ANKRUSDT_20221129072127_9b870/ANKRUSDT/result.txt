@@ -1,0 +1,45 @@
++-------------------------------------------------+
+|                     Summary                     |
++-----------------------------+-------------------+
+| Metric                      | Value             |
++-----------------------------+-------------------+
+| Exchange                    | binance           |
+| Market type                 | futures           |
+| Symbol                      | ANKRUSDT          |
+| No. days                    | 670.707           |
+| Starting balance            | 760.0             |
+|                             |                   |
+| Long                        | True              |
+| ADG realized per exposure   | 0.34%             |
+| Final balance               | 1198.38           |
+| Final equity                | 1198.34           |
+| Net PNL + fees              | 438.379           |
+| Total gain                  | 58.95%            |
+| Average daily gain          | 0.0682%           |
+| DG mean std ratio           | 0.321             |
+| Price action distance mean  | 0.00885041        |
+| Price action distance std   | 0.0096407         |
+| Price action distance max   | 0.674892          |
+| Closest bankruptcy          | 100.0%            |
+| Lowest equity/balance ratio | 0.9193            |
+| Equity/balance ratio std    | 0.001385          |
+| No. fills                   | 81118             |
+| No. entries                 | 30999             |
+| No. closes                  | 50119             |
+| No. initial entries         | 27375             |
+| No. reentries               | 3624              |
+| No. unstuck entries         | 0                 |
+| No. unstuck closes          | 0                 |
+| No. normal closes           | 50119             |
+| Average n fills per day     | 121.0             |
+| Mean hours stuck            | 0.543247          |
+| Max hours stuck             | 61.8667           |
+| PNL sum                     | 448.0             |
+| Profit sum                  | 448.0             |
+| Loss sum                    | 0.0               |
+| Fee sum                     | -9.663            |
+| Biggest pos size            | 11790.0           |
+| Biggest pos cost            | 239.3             |
+| Volume quote                | 96628.6           |
+| Krishna score               | 4809.494590721393 |
++-----------------------------+-------------------+
