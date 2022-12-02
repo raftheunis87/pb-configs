@@ -1,0 +1,45 @@
++--------------------------------------------------+
+|                     Summary                      |
++-----------------------------+--------------------+
+| Metric                      | Value              |
++-----------------------------+--------------------+
+| Exchange                    | binance            |
+| Market type                 | futures            |
+| Symbol                      | KAVAUSDT           |
+| No. days                    | 852.704            |
+| Starting balance            | 760.0              |
+|                             |                    |
+| Long                        | True               |
+| ADG realized per exposure   | 0.165%             |
+| Final balance               | 1007.42            |
+| Final equity                | 1007.41            |
+| Net PNL + fees              | 247.424            |
+| Total gain                  | 33.16%             |
+| Average daily gain          | 0.0333%            |
+| DG mean std ratio           | 0.1691             |
+| Price action distance mean  | 0.0145422          |
+| Price action distance std   | 0.012924           |
+| Price action distance max   | 0.499589           |
+| Closest bankruptcy          | 100.0%             |
+| Lowest equity/balance ratio | 0.9332             |
+| Equity/balance ratio std    | 0.001553           |
+| No. fills                   | 42949              |
+| No. entries                 | 17935              |
+| No. closes                  | 25014              |
+| No. initial entries         | 14782              |
+| No. reentries               | 3153               |
+| No. unstuck entries         | 0                  |
+| No. unstuck closes          | 0                  |
+| No. normal closes           | 25014              |
+| Average n fills per day     | 50.4               |
+| Mean hours stuck            | 1.58213            |
+| Max hours stuck             | 96.7167            |
+| PNL sum                     | 252.0              |
+| Profit sum                  | 252.0              |
+| Loss sum                    | 0.0                |
+| Fee sum                     | -4.564             |
+| Biggest pos size            | 237.6              |
+| Biggest pos cost            | 201.1              |
+| Volume quote                | 45644.6            |
+| Krishna score               | 3991.4158025180027 |
++-----------------------------+--------------------+
