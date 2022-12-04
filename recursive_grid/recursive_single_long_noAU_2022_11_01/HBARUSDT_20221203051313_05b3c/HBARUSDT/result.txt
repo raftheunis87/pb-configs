@@ -1,0 +1,45 @@
++--------------------------------------------------+
+|                     Summary                      |
++-----------------------------+--------------------+
+| Metric                      | Value              |
++-----------------------------+--------------------+
+| Exchange                    | binance            |
+| Market type                 | futures            |
+| Symbol                      | HBARUSDT           |
+| No. days                    | 593.708            |
+| Starting balance            | 760.0              |
+|                             |                    |
+| Long                        | True               |
+| ADG realized per exposure   | 0.311%             |
+| Final balance               | 1099.1             |
+| Final equity                | 1099.08            |
+| Net PNL + fees              | 339.095            |
+| Total gain                  | 45.23%             |
+| Average daily gain          | 0.0624%            |
+| DG mean std ratio           | 0.327              |
+| Price action distance mean  | 0.0102088          |
+| Price action distance std   | 0.00936777         |
+| Price action distance max   | 0.657027           |
+| Closest bankruptcy          | 100.0%             |
+| Lowest equity/balance ratio | 0.9206             |
+| Equity/balance ratio std    | 0.0009195          |
+| No. fills                   | 25913              |
+| No. entries                 | 8888               |
+| No. closes                  | 17025              |
+| No. initial entries         | 7325               |
+| No. reentries               | 1563               |
+| No. unstuck entries         | 0                  |
+| No. unstuck closes          | 0                  |
+| No. normal closes           | 17025              |
+| Average n fills per day     | 43.6               |
+| Mean hours stuck            | 1.38636            |
+| Max hours stuck             | 99.3667            |
+| PNL sum                     | 343.8              |
+| Profit sum                  | 343.8              |
+| Loss sum                    | 0.0                |
+| Fee sum                     | -4.682             |
+| Biggest pos size            | 3541.0             |
+| Biggest pos cost            | 218.0              |
+| Volume quote                | 46816.2            |
+| Krishna score               | 4359.2493205491355 |
++-----------------------------+--------------------+
