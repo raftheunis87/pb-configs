@@ -1,0 +1,45 @@
++-------------------------------------------------+
+|                     Summary                     |
++-----------------------------+-------------------+
+| Metric                      | Value             |
++-----------------------------+-------------------+
+| Exchange                    | binance           |
+| Market type                 | futures           |
+| Symbol                      | 1INCHUSDT         |
+| No. days                    | 675.583           |
+| Starting balance            | 760.0             |
+|                             |                   |
+| Long                        | True              |
+| ADG realized per exposure   | 0.239%            |
+| Final balance               | 1049.53           |
+| Final equity                | 1049.49           |
+| Net PNL + fees              | 289.531           |
+| Total gain                  | 38.95%            |
+| Average daily gain          | 0.0474%           |
+| DG mean std ratio           | 0.3117            |
+| Price action distance mean  | 0.00989612        |
+| Price action distance std   | 0.0100075         |
+| Price action distance max   | 1.04264           |
+| Closest bankruptcy          | 100.0%            |
+| Lowest equity/balance ratio | 0.8976            |
+| Equity/balance ratio std    | 0.0009518         |
+| No. fills                   | 58466             |
+| No. entries                 | 23534             |
+| No. closes                  | 34932             |
+| No. initial entries         | 20083             |
+| No. reentries               | 3451              |
+| No. unstuck entries         | 0                 |
+| No. unstuck closes          | 0                 |
+| No. normal closes           | 34932             |
+| Average n fills per day     | 86.5              |
+| Mean hours stuck            | 0.879093          |
+| Max hours stuck             | 86.05             |
+| PNL sum                     | 296.0             |
+| Profit sum                  | 296.0             |
+| Loss sum                    | 0.0               |
+| Fee sum                     | -6.456            |
+| Biggest pos size            | 370.6             |
+| Biggest pos cost            | 209.7             |
+| Volume quote                | 64556.9           |
+| Krishna score               | 4028.045711076016 |
++-----------------------------+-------------------+
