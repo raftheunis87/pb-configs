@@ -1,0 +1,45 @@
++--------------------------------------------------+
+|                     Summary                      |
++-----------------------------+--------------------+
+| Metric                      | Value              |
++-----------------------------+--------------------+
+| Exchange                    | binance            |
+| Market type                 | futures            |
+| Symbol                      | ENJUSDT            |
+| No. days                    | 762.708            |
+| Starting balance            | 760.0              |
+|                             |                    |
+| Short                       | True               |
+| ADG realized per exposure   | 0.114%             |
+| Final balance               | 904.796            |
+| Final equity                | 904.793            |
+| Net PNL + fees              | 144.796            |
+| Total gain                  | 19.44%             |
+| Average daily gain          | 0.0231%            |
+| DG mean std ratio           | 0.1258             |
+| Price action distance mean  | 0.0124362          |
+| Price action distance std   | 0.0122356          |
+| Price action distance max   | 0.228219           |
+| Closest bankruptcy          | 100.0%             |
+| Lowest equity/balance ratio | 0.9408             |
+| Equity/balance ratio std    | 0.002297           |
+| No. fills                   | 56810              |
+| No. entries                 | 19759              |
+| No. closes                  | 37051              |
+| No. initial entries         | 15942              |
+| No. reentries               | 3687               |
+| No. unstuck entries         | 130                |
+| No. unstuck closes          | 67                 |
+| No. normal closes           | 36984              |
+| Average n fills per day     | 74.5               |
+| Mean hours stuck            | 0.74471            |
+| Max hours stuck             | 79.75              |
+| PNL sum                     | 147.7              |
+| Profit sum                  | 151.5              |
+| Loss sum                    | -3.827             |
+| Fee sum                     | -2.927             |
+| Biggest pos size            | 800.6              |
+| Biggest pos cost            | 180.1              |
+| Volume quote                | 29267.0            |
+| Krishna score               | 3541.1093821169534 |
++-----------------------------+--------------------+
