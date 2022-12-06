@@ -1,0 +1,45 @@
++-------------------------------------------------+
+|                     Summary                     |
++-----------------------------+-------------------+
+| Metric                      | Value             |
++-----------------------------+-------------------+
+| Exchange                    | binance           |
+| Market type                 | futures           |
+| Symbol                      | GRTUSDT           |
+| No. days                    | 681.708           |
+| Starting balance            | 50.0              |
+|                             |                   |
+| Long                        | True              |
+| ADG realized per exposure   | 0.336%            |
+| Final balance               | 493.536           |
+| Final equity                | 493.51            |
+| Net PNL + fees              | 443.536           |
+| Total gain                  | 897.3%            |
+| Average daily gain          | 0.347%            |
+| DG mean std ratio           | 0.227             |
+| Price action distance mean  | 0.0122365         |
+| Price action distance std   | 0.0147239         |
+| Price action distance max   | 0.571698          |
+| Closest bankruptcy          | 99.74%            |
+| Lowest equity/balance ratio | 0.6358            |
+| Equity/balance ratio std    | 0.01098           |
+| No. fills                   | 37711             |
+| No. entries                 | 12159             |
+| No. closes                  | 25552             |
+| No. initial entries         | 9384              |
+| No. reentries               | 2775              |
+| No. unstuck entries         | 0                 |
+| No. unstuck closes          | 0                 |
+| No. normal closes           | 25552             |
+| Average n fills per day     | 55.3              |
+| Mean hours stuck            | 0.964339          |
+| Max hours stuck             | 96.9              |
+| PNL sum                     | 448.6             |
+| Profit sum                  | 448.6             |
+| Loss sum                    | 0.0               |
+| Fee sum                     | -5.094            |
+| Biggest pos size            | 5434.6            |
+| Biggest pos cost            | 478.2             |
+| Volume quote                | 50944.7           |
+| Krishna score               | 281.9872652479433 |
++-----------------------------+-------------------+
