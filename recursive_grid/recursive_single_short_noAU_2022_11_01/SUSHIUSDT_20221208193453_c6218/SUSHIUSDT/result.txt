@@ -1,0 +1,45 @@
++-------------------------------------------------+
+|                     Summary                     |
++-----------------------------+-------------------+
+| Metric                      | Value             |
++-----------------------------+-------------------+
+| Exchange                    | binance           |
+| Market type                 | futures           |
+| Symbol                      | SUSHIUSDT         |
+| No. days                    | 787.708           |
+| Starting balance            | 760.0             |
+|                             |                   |
+| Short                       | True              |
+| ADG realized per exposure   | 0.238%            |
+| Final balance               | 1105.36           |
+| Final equity                | 1105.36           |
+| Net PNL + fees              | 345.362           |
+| Total gain                  | 46.22%            |
+| Average daily gain          | 0.0481%           |
+| DG mean std ratio           | 0.1551            |
+| Price action distance mean  | 0.0113585         |
+| Price action distance std   | 0.010356          |
+| Price action distance max   | 0.182283          |
+| Closest bankruptcy          | 100.0%            |
+| Lowest equity/balance ratio | 0.955             |
+| Equity/balance ratio std    | 0.001628          |
+| No. fills                   | 28638             |
+| No. entries                 | 11418             |
+| No. closes                  | 17220             |
+| No. initial entries         | 7337              |
+| No. reentries               | 4081              |
+| No. unstuck entries         | 0                 |
+| No. unstuck closes          | 0                 |
+| No. normal closes           | 17220             |
+| Average n fills per day     | 36.4              |
+| Mean hours stuck            | 0.914698          |
+| Max hours stuck             | 73.1667           |
+| PNL sum                     | 351.3             |
+| Profit sum                  | 351.3             |
+| Loss sum                    | 0.0               |
+| Fee sum                     | -5.924            |
+| Biggest pos size            | 226.9             |
+| Biggest pos cost            | 220.3             |
+| Volume quote                | 59243.7           |
+| Krishna score               | 4552.437000794784 |
++-----------------------------+-------------------+
