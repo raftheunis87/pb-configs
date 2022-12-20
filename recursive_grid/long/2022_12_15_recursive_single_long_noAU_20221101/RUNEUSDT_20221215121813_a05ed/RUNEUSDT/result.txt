@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | RUNEUSDT  |
+| No. days                    | 817.699   |
+| Starting balance            | 770.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.235%    |
+| Final balance               | 1130.24   |
+| Final equity                | 1130.24   |
+| Net PNL + fees              | 360.235   |
+| Total gain                  | 48.09%    |
+| Average daily gain          | 0.0471%   |
+| Loss to profit ratio        | 0.0       |
+| Price action distance mean  | 0.0117688 |
+| Price action distance std   | 0.0104565 |
+| Price action distance max   | 0.873407  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9064    |
+| Equity/balance ratio std    | 0.001034  |
+| No. fills                   | 85413     |
+| No. entries                 | 33035     |
+| No. closes                  | 52378     |
+| No. initial entries         | 28499     |
+| No. reentries               | 4536      |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 52378     |
+| Average n fills per day     | 104.0     |
+| Mean hours stuck            | 0.743279  |
+| Max hours stuck             | 85.5667   |
+| PNL sum                     | 370.3     |
+| Profit sum                  | 370.3     |
+| Loss sum                    | 0.0       |
+| Fee sum                     | -10.07    |
+| Biggest pos size            | 402.6     |
+| Biggest pos cost            | 223.9     |
+| Volume quote                | 100680.0  |
++-----------------------------+-----------+

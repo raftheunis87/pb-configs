@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | ANKRUSDT   |
+| No. days                    | 673.708    |
+| Starting balance            | 770.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.306%     |
+| Final balance               | 1162.61    |
+| Final equity                | 1162.61    |
+| Net PNL + fees              | 392.614    |
+| Total gain                  | 52.21%     |
+| Average daily gain          | 0.0614%    |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.00824557 |
+| Price action distance std   | 0.00967441 |
+| Price action distance max   | 0.723362   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9159     |
+| Equity/balance ratio std    | 0.001442   |
+| No. fills                   | 93843      |
+| No. entries                 | 29057      |
+| No. closes                  | 64786      |
+| No. initial entries         | 24507      |
+| No. reentries               | 4550       |
+| No. unstuck entries         | 0          |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 64786      |
+| Average n fills per day     | 139.0      |
+| Mean hours stuck            | 0.362144   |
+| Max hours stuck             | 42.6833    |
+| PNL sum                     | 402.0      |
+| Profit sum                  | 402.0      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -9.397     |
+| Biggest pos size            | 12512.0    |
+| Biggest pos cost            | 232.0      |
+| Volume quote                | 93972.1    |
++-----------------------------+------------+

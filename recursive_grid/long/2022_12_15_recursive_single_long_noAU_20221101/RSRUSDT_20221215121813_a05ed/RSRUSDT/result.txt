@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | RSRUSDT    |
+| No. days                    | 772.704    |
+| Starting balance            | 770.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.276%     |
+| Final balance               | 1179.17    |
+| Final equity                | 1179.17    |
+| Net PNL + fees              | 409.172    |
+| Total gain                  | 54.57%     |
+| Average daily gain          | 0.0554%    |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.00882237 |
+| Price action distance std   | 0.00926748 |
+| Price action distance max   | 0.792653   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9114     |
+| Equity/balance ratio std    | 0.001323   |
+| No. fills                   | 116443     |
+| No. entries                 | 44032      |
+| No. closes                  | 72411      |
+| No. initial entries         | 35772      |
+| No. reentries               | 8260       |
+| No. unstuck entries         | 0          |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 72411      |
+| Average n fills per day     | 151.0      |
+| Mean hours stuck            | 0.43196    |
+| Max hours stuck             | 83.6       |
+| PNL sum                     | 420.2      |
+| Profit sum                  | 420.2      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -11.01     |
+| Biggest pos size            | 50330.0    |
+| Biggest pos cost            | 234.9      |
+| Volume quote                | 110053.0   |
++-----------------------------+------------+

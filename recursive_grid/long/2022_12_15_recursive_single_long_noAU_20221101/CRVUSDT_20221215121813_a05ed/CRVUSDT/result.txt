@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | CRVUSDT   |
+| No. days                    | 820.707   |
+| Starting balance            | 770.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.212%    |
+| Final balance               | 1091.06   |
+| Final equity                | 1091.06   |
+| Net PNL + fees              | 321.058   |
+| Total gain                  | 42.58%    |
+| Average daily gain          | 0.0426%   |
+| Loss to profit ratio        | 0.0       |
+| Price action distance mean  | 0.0138916 |
+| Price action distance std   | 0.0124343 |
+| Price action distance max   | 0.748143  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9143    |
+| Equity/balance ratio std    | 0.00142   |
+| No. fills                   | 78963     |
+| No. entries                 | 28517     |
+| No. closes                  | 50446     |
+| No. initial entries         | 25668     |
+| No. reentries               | 2849      |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 50446     |
+| Average n fills per day     | 96.2      |
+| Mean hours stuck            | 0.724686  |
+| Max hours stuck             | 81.4833   |
+| PNL sum                     | 327.9     |
+| Profit sum                  | 327.9     |
+| Loss sum                    | 0.0       |
+| Fee sum                     | -6.83     |
+| Biggest pos size            | 469.8     |
+| Biggest pos cost            | 217.2     |
+| Volume quote                | 68295.8   |
++-----------------------------+-----------+

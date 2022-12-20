@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | ALGOUSDT   |
+| No. days                    | 897.624    |
+| Starting balance            | 770.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.23%      |
+| Final balance               | 1162.99    |
+| Final equity                | 1162.99    |
+| Net PNL + fees              | 392.993    |
+| Total gain                  | 51.89%     |
+| Average daily gain          | 0.0461%    |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.0085423  |
+| Price action distance std   | 0.00755434 |
+| Price action distance max   | 0.260295   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9586     |
+| Equity/balance ratio std    | 0.0007948  |
+| No. fills                   | 77531      |
+| No. entries                 | 24619      |
+| No. closes                  | 52912      |
+| No. initial entries         | 21040      |
+| No. reentries               | 3579       |
+| No. unstuck entries         | 0          |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 52912      |
+| Average n fills per day     | 86.4       |
+| Mean hours stuck            | 0.657299   |
+| Max hours stuck             | 75.9       |
+| PNL sum                     | 399.6      |
+| Profit sum                  | 399.6      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -6.595     |
+| Biggest pos size            | 877.5      |
+| Biggest pos cost            | 230.2      |
+| Volume quote                | 65953.4    |
++-----------------------------+------------+
