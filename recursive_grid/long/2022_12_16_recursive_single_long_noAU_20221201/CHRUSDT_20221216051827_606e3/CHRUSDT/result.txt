@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | CHRUSDT    |
+| No. days                    | 628.708    |
+| Starting balance            | 770.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.209%     |
+| Final balance               | 1000.9     |
+| Final equity                | 1000.9     |
+| Net PNL + fees              | 230.9      |
+| Total gain                  | 30.77%     |
+| Average daily gain          | 0.0418%    |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.00965111 |
+| Price action distance std   | 0.0107776  |
+| Price action distance max   | 0.824364   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9095     |
+| Equity/balance ratio std    | 0.001366   |
+| No. fills                   | 102216     |
+| No. entries                 | 32043      |
+| No. closes                  | 70173      |
+| No. initial entries         | 28658      |
+| No. reentries               | 3385       |
+| No. unstuck entries         | 0          |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 70173      |
+| Average n fills per day     | 163.0      |
+| Mean hours stuck            | 0.340863   |
+| Max hours stuck             | 76.3       |
+| PNL sum                     | 236.9      |
+| Profit sum                  | 236.9      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -6.037     |
+| Biggest pos size            | 1579.1     |
+| Biggest pos cost            | 199.6      |
+| Volume quote                | 60371.1    |
++-----------------------------+------------+

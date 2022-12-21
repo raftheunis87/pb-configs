@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | THETAUSDT  |
+| No. days                    | 917.665    |
+| Starting balance            | 770.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.311%     |
+| Final balance               | 1363.14    |
+| Final equity                | 1363.14    |
+| Net PNL + fees              | 593.141    |
+| Total gain                  | 78.69%     |
+| Average daily gain          | 0.0612%    |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.0082136  |
+| Price action distance std   | 0.00898216 |
+| Price action distance max   | 1.03874    |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.8979     |
+| Equity/balance ratio std    | 0.001182   |
+| No. fills                   | 82443      |
+| No. entries                 | 26957      |
+| No. closes                  | 55486      |
+| No. initial entries         | 21677      |
+| No. reentries               | 5280       |
+| No. unstuck entries         | 0          |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 55486      |
+| Average n fills per day     | 89.8       |
+| Mean hours stuck            | 0.640809   |
+| Max hours stuck             | 79.0167    |
+| PNL sum                     | 605.9      |
+| Profit sum                  | 605.9      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -12.75     |
+| Biggest pos size            | 813.7      |
+| Biggest pos cost            | 270.5      |
+| Volume quote                | 127468.0   |
++-----------------------------+------------+

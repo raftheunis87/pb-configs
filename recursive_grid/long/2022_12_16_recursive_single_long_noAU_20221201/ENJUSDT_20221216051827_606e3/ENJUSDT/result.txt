@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | ENJUSDT    |
+| No. days                    | 792.708    |
+| Starting balance            | 770.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.248%     |
+| Final balance               | 1141.26    |
+| Final equity                | 1141.26    |
+| Net PNL + fees              | 371.255    |
+| Total gain                  | 48.95%     |
+| Average daily gain          | 0.0498%    |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.0106237  |
+| Price action distance std   | 0.00925031 |
+| Price action distance max   | 0.480523   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.935      |
+| Equity/balance ratio std    | 0.0007618  |
+| No. fills                   | 54092      |
+| No. entries                 | 17715      |
+| No. closes                  | 36377      |
+| No. initial entries         | 15249      |
+| No. reentries               | 2466       |
+| No. unstuck entries         | 0          |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 36377      |
+| Average n fills per day     | 68.2       |
+| Mean hours stuck            | 0.884061   |
+| Max hours stuck             | 155.933    |
+| PNL sum                     | 376.9      |
+| Profit sum                  | 376.9      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -5.689     |
+| Biggest pos size            | 1079.7     |
+| Biggest pos cost            | 227.2      |
+| Volume quote                | 56889.9    |
++-----------------------------+------------+
