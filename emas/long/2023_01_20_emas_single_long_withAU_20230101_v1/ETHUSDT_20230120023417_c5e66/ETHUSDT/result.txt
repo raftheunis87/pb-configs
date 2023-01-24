@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | ETHUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 1100.0     |
+| Starting balance            | 875.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.173%     |
+| Final balance               | 5847.42    |
+| Final equity                | 5847.42    |
+| Net PNL + fees              | 4972.42    |
+| Total gain                  | 588.2      |
+| Average daily gain          | 0.173      |
+| Net PNL + fees              | 4972.42    |
+| Loss to profit ratio        | 0.1731     |
+| Price action distance mean  | 0.00801373 |
+| Price action distance std   | 0.0169355  |
+| Price action distance max   | 0.853761   |
+| Closest bankruptcy          | 99.95      |
+| Lowest equity/balance ratio | 0.5394     |
+| Equity/balance ratio std    | 0.007531   |
+| No. fills                   | 6516       |
+| No. entries                 | 4205       |
+| No. closes                  | 2311       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 4205       |
+| No. unstuck/EMA closes      | 2065       |
+| No. normal closes           | 246        |
+| Average n fills per day     | 5.95       |
+| Mean hours stuck            | 4.02905    |
+| Max hours stuck             | 66.3667    |
+| PNL sum                     | 5146.0     |
+| Profit sum                  | 6224.0     |
+| Loss sum                    | -1077.0    |
+| Fee sum                     | -174.0     |
+| Volume quote                | 1265560.0  |
++-----------------------------+------------+

@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | FTMUSDT   |
+| Passivbot mode              | emas      |
+| No. days                    | 830.0     |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.179%    |
+| Final balance               | 3866.42   |
+| Final equity                | 3866.43   |
+| Net PNL + fees              | 2991.42   |
+| Total gain                  | 351.3     |
+| Average daily gain          | 0.179     |
+| Net PNL + fees              | 2991.42   |
+| Loss to profit ratio        | 0.1676    |
+| Price action distance mean  | 0.0109375 |
+| Price action distance std   | 0.0158547 |
+| Price action distance max   | 0.29384   |
+| Closest bankruptcy          | 99.65     |
+| Lowest equity/balance ratio | 0.7002    |
+| Equity/balance ratio std    | 0.009739  |
+| No. fills                   | 18744     |
+| No. entries                 | 12848     |
+| No. closes                  | 5896      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 12848     |
+| No. unstuck/EMA closes      | 5756      |
+| No. normal closes           | 140       |
+| Average n fills per day     | 22.6      |
+| Mean hours stuck            | 1.06102   |
+| Max hours stuck             | 20.7167   |
+| PNL sum                     | 3074.0    |
+| Profit sum                  | 3693.0    |
+| Loss sum                    | -618.9    |
+| Fee sum                     | -82.29    |
+| Volume quote                | 1904690.0 |
++-----------------------------+-----------+

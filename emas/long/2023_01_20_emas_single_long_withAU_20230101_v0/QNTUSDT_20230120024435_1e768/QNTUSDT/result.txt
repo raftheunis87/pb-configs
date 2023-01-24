@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | QNTUSDT   |
+| Passivbot mode              | emas      |
+| No. days                    | 73.0      |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.776%    |
+| Final balance               | 1536.95   |
+| Final equity                | 1536.2    |
+| Net PNL + fees              | 661.945   |
+| Total gain                  | 76.46     |
+| Average daily gain          | 0.776     |
+| Net PNL + fees              | 661.945   |
+| Loss to profit ratio        | 0.004463  |
+| Price action distance mean  | 0.0200516 |
+| Price action distance std   | 0.0205304 |
+| Price action distance max   | 0.130102  |
+| Closest bankruptcy          | 99.52     |
+| Lowest equity/balance ratio | 0.8856    |
+| Equity/balance ratio std    | 0.02066   |
+| No. fills                   | 404       |
+| No. entries                 | 138       |
+| No. closes                  | 266       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 138       |
+| No. unstuck/EMA closes      | 36        |
+| No. normal closes           | 230       |
+| Average n fills per day     | 5.54      |
+| Mean hours stuck            | 4.32506   |
+| Max hours stuck             | 75.2167   |
+| PNL sum                     | 669.0     |
+| Profit sum                  | 672.0     |
+| Loss sum                    | -2.999    |
+| Fee sum                     | -7.084    |
+| Volume quote                | 201307.0  |
++-----------------------------+-----------+

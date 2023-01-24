@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | SUSHIUSDT |
+| Passivbot mode              | emas      |
+| No. days                    | 850.0     |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.195%    |
+| Final balance               | 4583.27   |
+| Final equity                | 4583.3    |
+| Net PNL + fees              | 3708.27   |
+| Total gain                  | 427.1     |
+| Average daily gain          | 0.195     |
+| Net PNL + fees              | 3708.27   |
+| Loss to profit ratio        | 0.06428   |
+| Price action distance mean  | 0.0299693 |
+| Price action distance std   | 0.0280932 |
+| Price action distance max   | 0.503569  |
+| Closest bankruptcy          | 99.1      |
+| Lowest equity/balance ratio | 0.6651    |
+| Equity/balance ratio std    | 0.01608   |
+| No. fills                   | 3332      |
+| No. entries                 | 2353      |
+| No. closes                  | 979       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 2353      |
+| No. unstuck/EMA closes      | 818       |
+| No. normal closes           | 161       |
+| Average n fills per day     | 3.93      |
+| Mean hours stuck            | 6.11461   |
+| Max hours stuck             | 64.4167   |
+| PNL sum                     | 3737.0    |
+| Profit sum                  | 3994.0    |
+| Loss sum                    | -256.7    |
+| Fee sum                     | -29.15    |
+| Volume quote                | 847836.0  |
++-----------------------------+-----------+

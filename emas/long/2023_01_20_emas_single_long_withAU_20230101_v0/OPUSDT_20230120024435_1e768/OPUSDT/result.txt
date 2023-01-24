@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | OPUSDT    |
+| Passivbot mode              | emas      |
+| No. days                    | 210.0     |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.709%    |
+| Final balance               | 3950.43   |
+| Final equity                | 3971.52   |
+| Net PNL + fees              | 3075.43   |
+| Total gain                  | 356.0     |
+| Average daily gain          | 0.709     |
+| Net PNL + fees              | 3075.43   |
+| Loss to profit ratio        | 0.03802   |
+| Price action distance mean  | 0.0230657 |
+| Price action distance std   | 0.0232952 |
+| Price action distance max   | 0.254594  |
+| Closest bankruptcy          | 99.98     |
+| Lowest equity/balance ratio | 0.797     |
+| Equity/balance ratio std    | 0.01948   |
+| No. fills                   | 680       |
+| No. entries                 | 259       |
+| No. closes                  | 421       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 259       |
+| No. unstuck/EMA closes      | 131       |
+| No. normal closes           | 290       |
+| Average n fills per day     | 3.19      |
+| Mean hours stuck            | 7.5284    |
+| Max hours stuck             | 68.3667   |
+| PNL sum                     | 3115.0    |
+| Profit sum                  | 3238.0    |
+| Loss sum                    | -123.1    |
+| Fee sum                     | -39.4     |
+| Volume quote                | 411254.0  |
++-----------------------------+-----------+

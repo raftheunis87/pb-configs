@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | LINKUSDT  |
+| Passivbot mode              | emas      |
+| No. days                    | 1100.0    |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.183%    |
+| Final balance               | 6269.88   |
+| Final equity                | 6270.39   |
+| Net PNL + fees              | 5394.88   |
+| Total gain                  | 634.1     |
+| Average daily gain          | 0.183     |
+| Net PNL + fees              | 5394.88   |
+| Loss to profit ratio        | 0.189     |
+| Price action distance mean  | 0.0114482 |
+| Price action distance std   | 0.012774  |
+| Price action distance max   | 0.384254  |
+| Closest bankruptcy          | 99.99     |
+| Lowest equity/balance ratio | 0.7224    |
+| Equity/balance ratio std    | 0.006403  |
+| No. fills                   | 6772      |
+| No. entries                 | 5217      |
+| No. closes                  | 1555      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 5217      |
+| No. unstuck/EMA closes      | 1269      |
+| No. normal closes           | 286       |
+| Average n fills per day     | 6.27      |
+| Mean hours stuck            | 3.82418   |
+| Max hours stuck             | 50.9833   |
+| PNL sum                     | 5549.0    |
+| Profit sum                  | 6842.0    |
+| Loss sum                    | -1293.0   |
+| Fee sum                     | -153.8    |
+| Volume quote                | 1897940.0 |
++-----------------------------+-----------+

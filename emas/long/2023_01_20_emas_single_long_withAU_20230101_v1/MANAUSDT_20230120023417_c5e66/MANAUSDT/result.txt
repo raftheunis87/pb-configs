@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | MANAUSDT  |
+| Passivbot mode              | emas      |
+| No. days                    | 660.0     |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.181%    |
+| Final balance               | 2869.66   |
+| Final equity                | 2872.48   |
+| Net PNL + fees              | 1994.66   |
+| Total gain                  | 232.7     |
+| Average daily gain          | 0.181     |
+| Net PNL + fees              | 1994.66   |
+| Loss to profit ratio        | 0.1831    |
+| Price action distance mean  | 0.0146312 |
+| Price action distance std   | 0.0179681 |
+| Price action distance max   | 0.565568  |
+| Closest bankruptcy          | 99.91     |
+| Lowest equity/balance ratio | 0.6388    |
+| Equity/balance ratio std    | 0.01001   |
+| No. fills                   | 2836      |
+| No. entries                 | 2084      |
+| No. closes                  | 752       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 2084      |
+| No. unstuck/EMA closes      | 493       |
+| No. normal closes           | 259       |
+| Average n fills per day     | 4.32      |
+| Mean hours stuck            | 5.55777   |
+| Max hours stuck             | 99.45     |
+| PNL sum                     | 2036.0    |
+| Profit sum                  | 2492.0    |
+| Loss sum                    | -456.3    |
+| Fee sum                     | -41.52    |
+| Volume quote                | 506238.0  |
++-----------------------------+-----------+

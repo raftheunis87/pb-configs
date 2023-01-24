@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | AXSUSDT   |
+| Passivbot mode              | emas      |
+| No. days                    | 770.0     |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.43%     |
+| Final balance               | 23997.8   |
+| Final equity                | 24012.7   |
+| Net PNL + fees              | 23122.8   |
+| Total gain                  | 2678.0    |
+| Average daily gain          | 0.43      |
+| Net PNL + fees              | 23122.8   |
+| Loss to profit ratio        | 0.2485    |
+| Price action distance mean  | 0.0277125 |
+| Price action distance std   | 0.0287582 |
+| Price action distance max   | 0.662439  |
+| Closest bankruptcy          | 99.78     |
+| Lowest equity/balance ratio | 0.6016    |
+| Equity/balance ratio std    | 0.01929   |
+| No. fills                   | 2158      |
+| No. entries                 | 1001      |
+| No. closes                  | 1157      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1001      |
+| No. unstuck/EMA closes      | 724       |
+| No. normal closes           | 433       |
+| Average n fills per day     | 2.8       |
+| Mean hours stuck            | 8.58139   |
+| Max hours stuck             | 81.9833   |
+| PNL sum                     | 23430.0   |
+| Profit sum                  | 31180.0   |
+| Loss sum                    | -7748.0   |
+| Fee sum                     | -307.9    |
+| Volume quote                | 3206580.0 |
++-----------------------------+-----------+

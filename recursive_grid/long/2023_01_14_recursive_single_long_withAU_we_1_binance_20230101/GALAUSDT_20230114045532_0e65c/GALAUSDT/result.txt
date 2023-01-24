@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | GALAUSDT   |
+| No. days                    | 469.853    |
+| Starting balance            | 785.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.138%     |
+| Final balance               | 1499.51    |
+| Final equity                | 1499.51    |
+| Net PNL + fees              | 714.506    |
+| Total gain                  | 103.0%     |
+| Average daily gain          | 0.14%      |
+| Loss to profit ratio        | 0.001156   |
+| Price action distance mean  | 0.0105366  |
+| Price action distance std   | 0.00920598 |
+| Price action distance max   | 0.31696    |
+| Closest bankruptcy          | 99.23%     |
+| Lowest equity/balance ratio | 0.7583     |
+| Equity/balance ratio std    | 0.005824   |
+| No. fills                   | 53885      |
+| No. entries                 | 22121      |
+| No. closes                  | 31764      |
+| No. initial entries         | 15509      |
+| No. reentries               | 6553       |
+| No. unstuck entries         | 59         |
+| No. unstuck closes          | 4          |
+| No. normal closes           | 31760      |
+| Average n fills per day     | 115.0      |
+| Mean hours stuck            | 0.670302   |
+| Max hours stuck             | 115.733    |
+| PNL sum                     | 808.8      |
+| Profit sum                  | 809.7      |
+| Loss sum                    | -0.9359    |
+| Fee sum                     | -94.31     |
+| Biggest pos size            | 90086.0    |
+| Biggest pos cost            | 1499.0     |
+| Volume quote                | 471537.0   |
++-----------------------------+------------+

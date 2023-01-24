@@ -1,0 +1,43 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | GMTUSDT   |
+| No. days                    | 290.0     |
+| Starting balance            | 815.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.324%    |
+| Final balance               | 2096.25   |
+| Final equity                | 2096.25   |
+| Net PNL + fees              | 1281.25   |
+| Total gain                  | 160.7     |
+| Average daily gain          | 0.324     |
+| Net PNL + fees              | 1281.25   |
+| Loss to profit ratio        | 0.06965   |
+| Price action distance mean  | 0.0167607 |
+| Price action distance std   | 0.0151702 |
+| Price action distance max   | 0.19809   |
+| Closest bankruptcy          | 99.64     |
+| Lowest equity/balance ratio | 0.8347    |
+| Equity/balance ratio std    | 0.006105  |
+| No. fills                   | 1338      |
+| No. entries                 | 691       |
+| No. closes                  | 647       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 143       |
+| Average n fills per day     | 4.58      |
+| Mean hours stuck            | 5.22797   |
+| Max hours stuck             | 105.317   |
+| PNL sum                     | 1309.0    |
+| Profit sum                  | 1407.0    |
+| Loss sum                    | -98.03    |
+| Fee sum                     | -28.12    |
+| Volume quote                | 261273.0  |
++-----------------------------+-----------+

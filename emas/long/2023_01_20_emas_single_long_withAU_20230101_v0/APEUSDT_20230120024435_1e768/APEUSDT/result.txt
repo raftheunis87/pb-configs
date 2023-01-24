@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | APEUSDT   |
+| Passivbot mode              | emas      |
+| No. days                    | 290.0     |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.464%    |
+| Final balance               | 3340.28   |
+| Final equity                | 3346.2    |
+| Net PNL + fees              | 2465.28   |
+| Total gain                  | 287.3     |
+| Average daily gain          | 0.464     |
+| Net PNL + fees              | 2465.28   |
+| Loss to profit ratio        | 0.1772    |
+| Price action distance mean  | 0.0196456 |
+| Price action distance std   | 0.0189589 |
+| Price action distance max   | 0.174967  |
+| Closest bankruptcy          | 99.38     |
+| Lowest equity/balance ratio | 0.8503    |
+| Equity/balance ratio std    | 0.01182   |
+| No. fills                   | 975       |
+| No. entries                 | 547       |
+| No. closes                  | 428       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 547       |
+| No. unstuck/EMA closes      | 253       |
+| No. normal closes           | 175       |
+| Average n fills per day     | 3.37      |
+| Mean hours stuck            | 7.10522   |
+| Max hours stuck             | 45.9      |
+| PNL sum                     | 2514.0    |
+| Profit sum                  | 3055.0    |
+| Loss sum                    | -541.2    |
+| Fee sum                     | -48.43    |
+| Volume quote                | 237664.0  |
++-----------------------------+-----------+

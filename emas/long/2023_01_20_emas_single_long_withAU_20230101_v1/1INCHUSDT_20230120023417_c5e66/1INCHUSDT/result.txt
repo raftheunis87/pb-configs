@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | 1INCHUSDT |
+| Passivbot mode              | emas      |
+| No. days                    | 740.0     |
+| Starting balance            | 875.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.221%    |
+| Final balance               | 4451.14   |
+| Final equity                | 4451.14   |
+| Net PNL + fees              | 3576.14   |
+| Total gain                  | 417.1     |
+| Average daily gain          | 0.221     |
+| Net PNL + fees              | 3576.14   |
+| Loss to profit ratio        | 0.1154    |
+| Price action distance mean  | 0.0121413 |
+| Price action distance std   | 0.0140693 |
+| Price action distance max   | 0.563768  |
+| Closest bankruptcy          | 99.0      |
+| Lowest equity/balance ratio | 0.6402    |
+| Equity/balance ratio std    | 0.007087  |
+| No. fills                   | 5836      |
+| No. entries                 | 4741      |
+| No. closes                  | 1095      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 4741      |
+| No. unstuck/EMA closes      | 751       |
+| No. normal closes           | 344       |
+| Average n fills per day     | 7.92      |
+| Mean hours stuck            | 3.02596   |
+| Max hours stuck             | 62.3167   |
+| PNL sum                     | 3649.0    |
+| Profit sum                  | 4125.0    |
+| Loss sum                    | -475.9    |
+| Fee sum                     | -73.14    |
+| Volume quote                | 1269000.0 |
++-----------------------------+-----------+

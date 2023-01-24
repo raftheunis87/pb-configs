@@ -1,0 +1,43 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | CHZUSDT   |
+| No. days                    | 710.0     |
+| Starting balance            | 815.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.119%    |
+| Final balance               | 1899.2    |
+| Final equity                | 1898.93   |
+| Net PNL + fees              | 1084.2    |
+| Total gain                  | 136.0     |
+| Average daily gain          | 0.119     |
+| Net PNL + fees              | 1084.2    |
+| Loss to profit ratio        | 0.126     |
+| Price action distance mean  | 0.01172   |
+| Price action distance std   | 0.0122562 |
+| Price action distance max   | 0.508621  |
+| Closest bankruptcy          | 99.0      |
+| Lowest equity/balance ratio | 0.7645    |
+| Equity/balance ratio std    | 0.005381  |
+| No. fills                   | 5472      |
+| No. entries                 | 3987      |
+| No. closes                  | 1485      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck entries         | 0         |
+| No. unstuck closes          | 0         |
+| No. normal closes           | 1305      |
+| Average n fills per day     | 7.71      |
+| Mean hours stuck            | 3.11287   |
+| Max hours stuck             | 48.5667   |
+| PNL sum                     | 1108.0    |
+| Profit sum                  | 1268.0    |
+| Loss sum                    | -159.8    |
+| Fee sum                     | -24.27    |
+| Volume quote                | 444879.0  |
++-----------------------------+-----------+

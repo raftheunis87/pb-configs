@@ -1,0 +1,77 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | binance    |
+| Market type                 | futures    |
+| Symbol                      | VETUSDT    |
+| No. days                    | 1020.66    |
+| Starting balance            | 770.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.17%      |
+| Final balance               | 916.314    |
+| Final equity                | 916.314    |
+| Net PNL + fees              | 146.314    |
+| Total gain                  | 19.57%     |
+| Average daily gain          | 0.0171%    |
+| Loss to profit ratio        | 0.0        |
+| Price action distance mean  | 0.0108848  |
+| Price action distance std   | 0.0104378  |
+| Price action distance max   | 0.535764   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9651     |
+| Equity/balance ratio std    | 0.0002852  |
+| No. fills                   | 109432     |
+| No. entries                 | 22012      |
+| No. closes                  | 87420      |
+| No. initial entries         | 20155      |
+| No. reentries               | 1680       |
+| No. unstuck entries         | 177        |
+| No. unstuck closes          | 0          |
+| No. normal closes           | 87420      |
+| Average n fills per day     | 107.0      |
+| Mean hours stuck            | 0.493611   |
+| Max hours stuck             | 226.383    |
+| PNL sum                     | 150.7      |
+| Profit sum                  | 150.7      |
+| Loss sum                    | 0.0        |
+| Fee sum                     | -4.413     |
+| Biggest pos size            | 33254.0    |
+| Biggest pos cost            | 91.12      |
+| Volume quote                | 44125.4    |
+|                             |            |
+| Short                       | True       |
+| ADG realized per exposure   | 0.113%     |
+| Final balance               | 864.263    |
+| Final equity                | 864.23     |
+| Net PNL + fees              | 94.2628    |
+| Total gain                  | 12.8%      |
+| Average daily gain          | 0.0113%    |
+| Loss to profit ratio        | 0.0006622  |
+| Price action distance mean  | 0.0104187  |
+| Price action distance std   | 0.00928136 |
+| Price action distance max   | 0.161234   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9808     |
+| Equity/balance ratio std    | 0.0003775  |
+| No. fills                   | 74847      |
+| No. entries                 | 11709      |
+| No. closes                  | 63138      |
+| No. initial entries         | 10119      |
+| No. reentries               | 1553       |
+| No. unstuck entries         | 37         |
+| No. unstuck closes          | 11         |
+| No. normal closes           | 63127      |
+| Average n fills per day     | 73.3       |
+| Mean hours stuck            | 1.08644    |
+| Max hours stuck             | 106.117    |
+| PNL sum                     | 98.56      |
+| Profit sum                  | 98.62      |
+| Loss sum                    | -0.06531   |
+| Fee sum                     | -4.297     |
+| Biggest pos size            | 25005.0    |
+| Biggest pos cost            | 85.52      |
+| Volume quote                | 42966.9    |
++-----------------------------+------------+
