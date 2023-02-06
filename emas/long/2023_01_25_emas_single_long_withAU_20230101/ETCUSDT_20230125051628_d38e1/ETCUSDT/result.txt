@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | ETCUSDT   |
+| Passivbot mode              | emas      |
+| No. days                    | 1100.0    |
+| Starting balance            | 915.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.327%    |
+| Final balance               | 31240.7   |
+| Final equity                | 30642.3   |
+| Net PNL + fees              | 30325.7   |
+| Total gain                  | 3350.0    |
+| Average daily gain          | 0.327     |
+| Net PNL + fees              | 30325.7   |
+| Loss to profit ratio        | 0.06802   |
+| Price action distance mean  | 0.0203367 |
+| Price action distance std   | 0.0275833 |
+| Price action distance max   | 0.62615   |
+| Closest bankruptcy          | 99.99     |
+| Lowest equity/balance ratio | 0.6149    |
+| Equity/balance ratio std    | 0.01962   |
+| No. fills                   | 2655      |
+| No. entries                 | 1066      |
+| No. closes                  | 1589      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1066      |
+| No. unstuck/EMA closes      | 1423      |
+| No. normal closes           | 166       |
+| Average n fills per day     | 2.46      |
+| Mean hours stuck            | 9.76339   |
+| Max hours stuck             | 83.2333   |
+| PNL sum                     | 30650.0   |
+| Profit sum                  | 32890.0   |
+| Loss sum                    | -2237.0   |
+| Fee sum                     | -324.3    |
+| Volume quote                | 5448850.0 |
++-----------------------------+-----------+

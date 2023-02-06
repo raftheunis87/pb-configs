@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | LTCUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 1100.0     |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.146%     |
+| Final balance               | 1486.17    |
+| Final equity                | 1486.17    |
+| Net PNL + fees              | 486.173    |
+| Total gain                  | 50.13      |
+| Average daily gain          | 0.0364     |
+| Net PNL + fees              | 486.173    |
+| Loss to profit ratio        | 0.177      |
+| Price action distance mean  | 0.00860162 |
+| Price action distance std   | 0.00846657 |
+| Price action distance max   | 0.222656   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9551     |
+| Equity/balance ratio std    | 0.0003941  |
+| No. fills                   | 8264       |
+| No. entries                 | 4568       |
+| No. closes                  | 3696       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 4568       |
+| No. unstuck/EMA closes      | 3659       |
+| No. normal closes           | 37         |
+| Average n fills per day     | 7.6        |
+| Mean hours stuck            | 3.14976    |
+| Max hours stuck             | 100.317    |
+| PNL sum                     | 501.3      |
+| Profit sum                  | 609.1      |
+| Loss sum                    | -107.8     |
+| Fee sum                     | -15.08     |
+| Volume quote                | 111168.0   |
++-----------------------------+------------+

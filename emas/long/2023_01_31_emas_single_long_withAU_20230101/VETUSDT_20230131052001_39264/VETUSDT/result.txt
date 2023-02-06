@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | VETUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 1100.0     |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.332%     |
+| Final balance               | 2393.25    |
+| Final equity                | 2393.27    |
+| Net PNL + fees              | 1393.25    |
+| Total gain                  | 142.2      |
+| Average daily gain          | 0.083      |
+| Net PNL + fees              | 1393.25    |
+| Loss to profit ratio        | 0.2465     |
+| Price action distance mean  | 0.00693378 |
+| Price action distance std   | 0.00925133 |
+| Price action distance max   | 0.58749    |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9075     |
+| Equity/balance ratio std    | 0.001508   |
+| No. fills                   | 19857      |
+| No. entries                 | 13630      |
+| No. closes                  | 6227       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 13630      |
+| No. unstuck/EMA closes      | 6086       |
+| No. normal closes           | 141        |
+| Average n fills per day     | 18.9       |
+| Mean hours stuck            | 1.2708     |
+| Max hours stuck             | 12.1333    |
+| PNL sum                     | 1422.0     |
+| Profit sum                  | 1887.0     |
+| Loss sum                    | -465.1     |
+| Fee sum                     | -28.57     |
+| Volume quote                | 321869.0   |
++-----------------------------+------------+

@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | XMRUSDT   |
+| Passivbot mode              | emas      |
+| No. days                    | 1100.0    |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.185%    |
+| Final balance               | 1634.59   |
+| Final equity                | 1634.9    |
+| Net PNL + fees              | 634.592   |
+| Total gain                  | 64.49     |
+| Average daily gain          | 0.0463    |
+| Net PNL + fees              | 634.592   |
+| Loss to profit ratio        | 0.06636   |
+| Price action distance mean  | 0.0101272 |
+| Price action distance std   | 0.0148497 |
+| Price action distance max   | 0.237691  |
+| Closest bankruptcy          | 100.0     |
+| Lowest equity/balance ratio | 0.9275    |
+| Equity/balance ratio std    | 0.003085  |
+| No. fills                   | 23154     |
+| No. entries                 | 8843      |
+| No. closes                  | 14311     |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 8843      |
+| No. unstuck/EMA closes      | 13609     |
+| No. normal closes           | 702       |
+| Average n fills per day     | 21.8      |
+| Mean hours stuck            | 1.10149   |
+| Max hours stuck             | 8.31667   |
+| PNL sum                     | 644.9     |
+| Profit sum                  | 690.7     |
+| Loss sum                    | -45.84    |
+| Fee sum                     | -10.31    |
+| Volume quote                | 684392.0  |
++-----------------------------+-----------+

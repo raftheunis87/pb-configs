@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | HBARUSDT   |
+| Passivbot mode              | emas       |
+| No. days                    | 650.0      |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.459%     |
+| Final balance               | 2119.68    |
+| Final equity                | 2093.48    |
+| Net PNL + fees              | 1119.68    |
+| Total gain                  | 113.6      |
+| Average daily gain          | 0.115      |
+| Net PNL + fees              | 1119.68    |
+| Loss to profit ratio        | 0.1148     |
+| Price action distance mean  | 0.00848986 |
+| Price action distance std   | 0.013531   |
+| Price action distance max   | 0.299404   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9424     |
+| Equity/balance ratio std    | 0.002815   |
+| No. fills                   | 17000      |
+| No. entries                 | 10360      |
+| No. closes                  | 6640       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 10360      |
+| No. unstuck/EMA closes      | 6382       |
+| No. normal closes           | 258        |
+| Average n fills per day     | 26.0       |
+| Mean hours stuck            | 0.922537   |
+| Max hours stuck             | 33.2       |
+| PNL sum                     | 1136.0     |
+| Profit sum                  | 1284.0     |
+| Loss sum                    | -147.4     |
+| Fee sum                     | -16.69     |
+| Volume quote                | 215773.0   |
++-----------------------------+------------+

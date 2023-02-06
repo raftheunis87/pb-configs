@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | GMTUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 290.0      |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.36%      |
+| Final balance               | 1300.28    |
+| Final equity                | 1300.28    |
+| Net PNL + fees              | 300.285    |
+| Total gain                  | 30.3       |
+| Average daily gain          | 0.09       |
+| Net PNL + fees              | 300.285    |
+| Loss to profit ratio        | 0.06963    |
+| Price action distance mean  | 0.00999767 |
+| Price action distance std   | 0.010105   |
+| Price action distance max   | 0.135651   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9701     |
+| Equity/balance ratio std    | 0.001199   |
+| No. fills                   | 3921       |
+| No. entries                 | 1996       |
+| No. closes                  | 1925       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 1996       |
+| No. unstuck/EMA closes      | 1773       |
+| No. normal closes           | 152        |
+| Average n fills per day     | 13.4       |
+| Mean hours stuck            | 1.78239    |
+| Max hours stuck             | 83.5       |
+| PNL sum                     | 303.0      |
+| Profit sum                  | 325.7      |
+| Loss sum                    | -22.67     |
+| Fee sum                     | -2.693     |
+| Volume quote                | 113966.0   |
++-----------------------------+------------+

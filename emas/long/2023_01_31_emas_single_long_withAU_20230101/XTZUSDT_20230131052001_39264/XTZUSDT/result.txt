@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | XTZUSDT   |
+| Passivbot mode              | emas      |
+| No. days                    | 1100.0    |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.176%    |
+| Final balance               | 1595.86   |
+| Final equity                | 1580.34   |
+| Net PNL + fees              | 595.86    |
+| Total gain                  | 60.49     |
+| Average daily gain          | 0.0441    |
+| Net PNL + fees              | 595.86    |
+| Loss to profit ratio        | 0.1966    |
+| Price action distance mean  | 0.0133913 |
+| Price action distance std   | 0.0148613 |
+| Price action distance max   | 0.890258  |
+| Closest bankruptcy          | 100.0     |
+| Lowest equity/balance ratio | 0.8817    |
+| Equity/balance ratio std    | 0.002306  |
+| No. fills                   | 19146     |
+| No. entries                 | 13645     |
+| No. closes                  | 5501      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 13645     |
+| No. unstuck/EMA closes      | 5373      |
+| No. normal closes           | 128       |
+| Average n fills per day     | 18.1      |
+| Mean hours stuck            | 1.32571   |
+| Max hours stuck             | 74.15     |
+| PNL sum                     | 604.9     |
+| Profit sum                  | 752.8     |
+| Loss sum                    | -148.0    |
+| Fee sum                     | -8.999    |
+| Volume quote                | 472847.0  |
++-----------------------------+-----------+

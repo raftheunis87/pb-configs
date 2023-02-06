@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | UNIUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 830.0      |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.303%     |
+| Final balance               | 1880.99    |
+| Final equity                | 1880.99    |
+| Net PNL + fees              | 880.986    |
+| Total gain                  | 89.56      |
+| Average daily gain          | 0.0757     |
+| Net PNL + fees              | 880.986    |
+| Loss to profit ratio        | 0.1372     |
+| Price action distance mean  | 0.0075371  |
+| Price action distance std   | 0.00670152 |
+| Price action distance max   | 0.247874   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9504     |
+| Equity/balance ratio std    | 0.0007837  |
+| No. fills                   | 14762      |
+| No. entries                 | 9807       |
+| No. closes                  | 4955       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 9807       |
+| No. unstuck/EMA closes      | 4771       |
+| No. normal closes           | 184        |
+| Average n fills per day     | 17.7       |
+| Mean hours stuck            | 1.3568     |
+| Max hours stuck             | 8.65       |
+| PNL sum                     | 895.6      |
+| Profit sum                  | 1038.0     |
+| Loss sum                    | -142.4     |
+| Fee sum                     | -14.65     |
+| Volume quote                | 163900.0   |
++-----------------------------+------------+

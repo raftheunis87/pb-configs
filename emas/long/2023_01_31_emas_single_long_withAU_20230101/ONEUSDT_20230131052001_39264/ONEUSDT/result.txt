@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | ONEUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 650.0      |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.345%     |
+| Final balance               | 1757.78    |
+| Final equity                | 1757.78    |
+| Net PNL + fees              | 757.779    |
+| Total gain                  | 76.92      |
+| Average daily gain          | 0.0863     |
+| Net PNL + fees              | 757.779    |
+| Loss to profit ratio        | 0.1679     |
+| Price action distance mean  | 0.00903191 |
+| Price action distance std   | 0.013205   |
+| Price action distance max   | 0.639762   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9025     |
+| Equity/balance ratio std    | 0.002594   |
+| No. fills                   | 32902      |
+| No. entries                 | 11306      |
+| No. closes                  | 21596      |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 11306      |
+| No. unstuck/EMA closes      | 20917      |
+| No. normal closes           | 679        |
+| Average n fills per day     | 50.3       |
+| Mean hours stuck            | 0.476803   |
+| Max hours stuck             | 2.65       |
+| PNL sum                     | 769.2      |
+| Profit sum                  | 924.5      |
+| Loss sum                    | -155.3     |
+| Fee sum                     | -11.43     |
+| Volume quote                | 756585.0   |
++-----------------------------+------------+

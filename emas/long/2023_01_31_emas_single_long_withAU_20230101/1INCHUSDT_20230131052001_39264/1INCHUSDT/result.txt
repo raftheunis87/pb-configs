@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | 1INCHUSDT  |
+| Passivbot mode              | emas       |
+| No. days                    | 740.0      |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.228%     |
+| Final balance               | 1521.28    |
+| Final equity                | 1521.27    |
+| Net PNL + fees              | 521.282    |
+| Total gain                  | 52.98      |
+| Average daily gain          | 0.057      |
+| Net PNL + fees              | 521.282    |
+| Loss to profit ratio        | 0.2155     |
+| Price action distance mean  | 0.00964438 |
+| Price action distance std   | 0.0110727  |
+| Price action distance max   | 0.455969   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9217     |
+| Equity/balance ratio std    | 0.001665   |
+| No. fills                   | 10524      |
+| No. entries                 | 7613       |
+| No. closes                  | 2911       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 7613       |
+| No. unstuck/EMA closes      | 2183       |
+| No. normal closes           | 728        |
+| Average n fills per day     | 14.3       |
+| Mean hours stuck            | 1.67966    |
+| Max hours stuck             | 10.75      |
+| PNL sum                     | 529.8      |
+| Profit sum                  | 675.3      |
+| Loss sum                    | -145.5     |
+| Fee sum                     | -8.485     |
+| Volume quote                | 96536.1    |
++-----------------------------+------------+

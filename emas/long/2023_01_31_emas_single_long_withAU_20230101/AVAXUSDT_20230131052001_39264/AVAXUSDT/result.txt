@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | AVAXUSDT  |
+| Passivbot mode              | emas      |
+| No. days                    | 830.0     |
+| Starting balance            | 1000.0    |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.339%    |
+| Final balance               | 2019.36   |
+| Final equity                | 2019.36   |
+| Net PNL + fees              | 1019.36   |
+| Total gain                  | 103.7     |
+| Average daily gain          | 0.0847    |
+| Net PNL + fees              | 1019.36   |
+| Loss to profit ratio        | 0.1874    |
+| Price action distance mean  | 0.0096287 |
+| Price action distance std   | 0.0149283 |
+| Price action distance max   | 0.277896  |
+| Closest bankruptcy          | 100.0     |
+| Lowest equity/balance ratio | 0.946     |
+| Equity/balance ratio std    | 0.002067  |
+| No. fills                   | 14252     |
+| No. entries                 | 6221      |
+| No. closes                  | 8031      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 6221      |
+| No. unstuck/EMA closes      | 7741      |
+| No. normal closes           | 290       |
+| Average n fills per day     | 17.2      |
+| Mean hours stuck            | 1.39533   |
+| Max hours stuck             | 99.7333   |
+| PNL sum                     | 1037.0    |
+| Profit sum                  | 1276.0    |
+| Loss sum                    | -239.1    |
+| Fee sum                     | -17.62    |
+| Volume quote                | 530202.0  |
++-----------------------------+-----------+

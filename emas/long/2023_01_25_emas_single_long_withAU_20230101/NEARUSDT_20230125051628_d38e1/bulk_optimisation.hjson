@@ -1,0 +1,54 @@
+{
+  "harmony_config_file": "../configs/optimize/harmony_search.hjson",
+  "backtest_config_file": "../configs/backtest/default.hjson",
+  "coin_list": [
+    { "coin": "ETHUSDT" },
+    { "coin": "ENJUSDT" },
+    { "coin": "DOGEUSDT" },
+    { "coin": "MANAUSDT" },
+    { "coin": "GALAUSDT" },
+    { "coin": "SANDUSDT" },
+    { "coin": "LTCUSDT" },
+    { "coin": "MATICUSDT" },
+    { "coin": "ETCUSDT" },
+    { "coin": "NEARUSDT" },
+    { "coin": "ADAUSDT" },
+    { "coin": "GMTUSDT" },
+    { "coin": "OPUSDT" },
+    { "coin": "LINKUSDT" },
+    { "coin": "APEUSDT" },
+    { "coin": "DOTUSDT" },
+    { "coin": "FTMUSDT" },
+    { "coin": "AXSUSDT" },
+    { "coin": "HBARUSDT" },
+    { "coin": "ATOMUSDT" },
+    { "coin": "XTZUSDT" },
+    { "coin": "SNXUSDT" },
+    { "coin": "CHZUSDT" },
+    { "coin": "1INCHUSDT" },
+    { "coin": "SUSHIUSDT" },
+    { "coin": "UNIUSDT" },
+    { "coin": "GRTUSDT" },
+    { "coin": "THETAUSDT" },
+    { "coin": "ZILUSDT" },
+    { "coin": "ARUSDT" },
+    { "coin": "QNTUSDT" },
+    { "coin": "AUDIOUSDT" },
+    { "coin": "SOLUSDT" },
+    { "coin": "XRPUSDT" },
+    { "coin": "BCHUSDT" }
+  ],
+  "override_bt_and_opti": {
+    "ohlc_opti": true,
+    "ohlc_bt": true,
+    "start_date": "2016-01-01",
+    "end_date": "2023-01-01"
+  },
+  "override_harmony_config": {
+    "n_cpus": 48,
+    "iters": 100000,
+    "do_short": false,
+    "passivbot_mode": "emas"
+  }
+}
+

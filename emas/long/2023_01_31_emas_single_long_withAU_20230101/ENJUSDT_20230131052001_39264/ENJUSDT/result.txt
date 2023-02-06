@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | ENJUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 820.0      |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.302%     |
+| Final balance               | 1863.73    |
+| Final equity                | 1863.7     |
+| Net PNL + fees              | 863.733    |
+| Total gain                  | 89.18      |
+| Average daily gain          | 0.0756     |
+| Net PNL + fees              | 863.733    |
+| Loss to profit ratio        | 0.22       |
+| Price action distance mean  | 0.0069577  |
+| Price action distance std   | 0.00827623 |
+| Price action distance max   | 0.533451   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.913      |
+| Equity/balance ratio std    | 0.001244   |
+| No. fills                   | 33457      |
+| No. entries                 | 20354      |
+| No. closes                  | 13103      |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 20354      |
+| No. unstuck/EMA closes      | 12966      |
+| No. normal closes           | 137        |
+| Average n fills per day     | 40.6       |
+| Mean hours stuck            | 0.590853   |
+| Max hours stuck             | 8.48333    |
+| PNL sum                     | 891.8      |
+| Profit sum                  | 1143.0     |
+| Loss sum                    | -251.6     |
+| Fee sum                     | -28.09     |
+| Volume quote                | 334556.0   |
++-----------------------------+------------+

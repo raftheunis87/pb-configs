@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | binance   |
+| Market type                 | futures   |
+| Symbol                      | NEARUSDT  |
+| Passivbot mode              | emas      |
+| No. days                    | 810.0     |
+| Starting balance            | 915.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.302%    |
+| Final balance               | 10450.1   |
+| Final equity                | 10448.8   |
+| Net PNL + fees              | 9535.05   |
+| Total gain                  | 1058.0    |
+| Average daily gain          | 0.302     |
+| Net PNL + fees              | 9535.05   |
+| Loss to profit ratio        | 0.2056    |
+| Price action distance mean  | 0.0235949 |
+| Price action distance std   | 0.0219125 |
+| Price action distance max   | 0.343562  |
+| Closest bankruptcy          | 99.93     |
+| Lowest equity/balance ratio | 0.7442    |
+| Equity/balance ratio std    | 0.01268   |
+| No. fills                   | 1415      |
+| No. entries                 | 968       |
+| No. closes                  | 447       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 968       |
+| No. unstuck/EMA closes      | 419       |
+| No. normal closes           | 28        |
+| Average n fills per day     | 1.75      |
+| Mean hours stuck            | 13.7038   |
+| Max hours stuck             | 75.8833   |
+| PNL sum                     | 9679.0    |
+| Profit sum                  | 12190.0   |
+| Loss sum                    | -2506.0   |
+| Fee sum                     | -144.4    |
+| Volume quote                | 698033.0  |
++-----------------------------+-----------+

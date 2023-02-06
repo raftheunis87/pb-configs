@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | ATOMUSDT   |
+| Passivbot mode              | emas       |
+| No. days                    | 1100.0     |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.363%     |
+| Final balance               | 2614.14    |
+| Final equity                | 2614.09    |
+| Net PNL + fees              | 1614.14    |
+| Total gain                  | 165.9      |
+| Average daily gain          | 0.0908     |
+| Net PNL + fees              | 1614.14    |
+| Loss to profit ratio        | 0.1024     |
+| Price action distance mean  | 0.00978357 |
+| Price action distance std   | 0.012485   |
+| Price action distance max   | 0.315221   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.94       |
+| Equity/balance ratio std    | 0.002793   |
+| No. fills                   | 36552      |
+| No. entries                 | 22201      |
+| No. closes                  | 14351      |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 22201      |
+| No. unstuck/EMA closes      | 5350       |
+| No. normal closes           | 9001       |
+| Average n fills per day     | 34.5       |
+| Mean hours stuck            | 0.694888   |
+| Max hours stuck             | 71.75      |
+| PNL sum                     | 1659.0     |
+| Profit sum                  | 1848.0     |
+| Loss sum                    | -189.3     |
+| Fee sum                     | -44.91     |
+| Volume quote                | 583395.0   |
++-----------------------------+------------+

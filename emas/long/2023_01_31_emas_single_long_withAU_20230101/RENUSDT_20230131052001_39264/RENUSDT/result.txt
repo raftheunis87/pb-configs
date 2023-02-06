@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | RENUSDT    |
+| Passivbot mode              | emas       |
+| No. days                    | 810.0      |
+| Starting balance            | 1000.0     |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.257%     |
+| Final balance               | 1680.68    |
+| Final equity                | 1680.65    |
+| Net PNL + fees              | 680.681    |
+| Total gain                  | 69.29      |
+| Average daily gain          | 0.0641     |
+| Net PNL + fees              | 680.681    |
+| Loss to profit ratio        | 0.2247     |
+| Price action distance mean  | 0.00968543 |
+| Price action distance std   | 0.0116413  |
+| Price action distance max   | 0.419204   |
+| Closest bankruptcy          | 100.0      |
+| Lowest equity/balance ratio | 0.9262     |
+| Equity/balance ratio std    | 0.002215   |
+| No. fills                   | 17799      |
+| No. entries                 | 9765       |
+| No. closes                  | 8034       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 9765       |
+| No. unstuck/EMA closes      | 7514       |
+| No. normal closes           | 520        |
+| Average n fills per day     | 22.0       |
+| Mean hours stuck            | 1.09161    |
+| Max hours stuck             | 28.6667    |
+| PNL sum                     | 692.9      |
+| Profit sum                  | 893.8      |
+| Loss sum                    | -200.8     |
+| Fee sum                     | -12.22     |
+| Volume quote                | 210558.0   |
++-----------------------------+------------+
