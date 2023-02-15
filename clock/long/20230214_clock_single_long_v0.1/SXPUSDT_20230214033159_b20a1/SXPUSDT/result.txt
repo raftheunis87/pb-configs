@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | SXPUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 920.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.435%    |
+| Final balance               | 2593.75   |
+| Final equity                | 2593.75   |
+| Net PNL + fees              | 1643.75   |
+| Total gain                  | 173.8%    |
+| Average daily gain          | 0.109%    |
+| Net PNL + fees              | 1643.75   |
+| Loss to profit ratio        | 0.1601    |
+| Price action distance mean  | 0.0282096 |
+| Price action distance std   | 0.0284918 |
+| Price action distance max   | 0.432413  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9245    |
+| Equity/balance ratio std    | 0.005413  |
+| No. fills                   | 2896      |
+| No. entries                 | 1631      |
+| No. closes                  | 1265      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1631      |
+| No. unstuck/EMA closes      | 1172      |
+| No. normal closes           | 93        |
+| Average n fills per day     | 3.13      |
+| Mean hours stuck            | 7.66448   |
+| Max hours stuck             | 66.6333   |
+| PNL sum                     | 1651.0    |
+| Profit sum                  | 1966.0    |
+| Loss sum                    | -314.8    |
+| Fee sum                     | -7.493    |
+| Volume quote                | 238608.0  |
++-----------------------------+-----------+

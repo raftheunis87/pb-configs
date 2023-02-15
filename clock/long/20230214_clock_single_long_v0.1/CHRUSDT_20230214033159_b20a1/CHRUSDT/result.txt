@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | CHRUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 690.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.451%    |
+| Final balance               | 2069.74   |
+| Final equity                | 2069.9    |
+| Net PNL + fees              | 1119.74   |
+| Total gain                  | 118.6%    |
+| Average daily gain          | 0.113%    |
+| Net PNL + fees              | 1119.74   |
+| Loss to profit ratio        | 0.1566    |
+| Price action distance mean  | 0.0283451 |
+| Price action distance std   | 0.0269824 |
+| Price action distance max   | 0.39844   |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9288    |
+| Equity/balance ratio std    | 0.005038  |
+| No. fills                   | 2369      |
+| No. entries                 | 1174      |
+| No. closes                  | 1195      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1174      |
+| No. unstuck/EMA closes      | 917       |
+| No. normal closes           | 278       |
+| Average n fills per day     | 3.43      |
+| Mean hours stuck            | 6.99974   |
+| Max hours stuck             | 55.5667   |
+| PNL sum                     | 1126.0    |
+| Profit sum                  | 1335.0    |
+| Loss sum                    | -209.1    |
+| Fee sum                     | -6.57     |
+| Volume quote                | 214880.0  |
++-----------------------------+-----------+
