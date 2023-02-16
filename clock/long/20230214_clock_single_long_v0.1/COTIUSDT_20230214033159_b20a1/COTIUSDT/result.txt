@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | COTIUSDT  |
+| Passivbot mode              | clock     |
+| No. days                    | 690.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.425%    |
+| Final balance               | 1980.95   |
+| Final equity                | 1980.7    |
+| Net PNL + fees              | 1030.95   |
+| Total gain                  | 109.1%    |
+| Average daily gain          | 0.106%    |
+| Net PNL + fees              | 1030.95   |
+| Loss to profit ratio        | 0.1029    |
+| Price action distance mean  | 0.0233854 |
+| Price action distance std   | 0.0250821 |
+| Price action distance max   | 0.380583  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9311    |
+| Equity/balance ratio std    | 0.004648  |
+| No. fills                   | 2789      |
+| No. entries                 | 1576      |
+| No. closes                  | 1213      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1576      |
+| No. unstuck/EMA closes      | 1189      |
+| No. normal closes           | 24        |
+| Average n fills per day     | 4.03      |
+| Mean hours stuck            | 5.95953   |
+| Max hours stuck             | 68.4833   |
+| PNL sum                     | 1036.0    |
+| Profit sum                  | 1155.0    |
+| Loss sum                    | -118.9    |
+| Fee sum                     | -5.454    |
+| Volume quote                | 184182.0  |
++-----------------------------+-----------+

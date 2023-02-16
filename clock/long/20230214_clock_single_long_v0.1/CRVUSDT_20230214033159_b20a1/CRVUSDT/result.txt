@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | CRVUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 880.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.299%    |
+| Final balance               | 1837.48   |
+| Final equity                | 1837.5    |
+| Net PNL + fees              | 887.477   |
+| Total gain                  | 93.97%    |
+| Average daily gain          | 0.0748%   |
+| Net PNL + fees              | 887.477   |
+| Loss to profit ratio        | 0.1401    |
+| Price action distance mean  | 0.0271211 |
+| Price action distance std   | 0.0238817 |
+| Price action distance max   | 0.305363  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9415    |
+| Equity/balance ratio std    | 0.003391  |
+| No. fills                   | 4443      |
+| No. entries                 | 2126      |
+| No. closes                  | 2317      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 2126      |
+| No. unstuck/EMA closes      | 2098      |
+| No. normal closes           | 219       |
+| Average n fills per day     | 5.03      |
+| Mean hours stuck            | 4.7685    |
+| Max hours stuck             | 87.8667   |
+| PNL sum                     | 892.7     |
+| Profit sum                  | 1038.0    |
+| Loss sum                    | -145.4    |
+| Fee sum                     | -5.207    |
+| Volume quote                | 173629.0  |
++-----------------------------+-----------+
