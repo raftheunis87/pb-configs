@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | DYDXUSDT  |
+| Passivbot mode              | clock     |
+| No. days                    | 510.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.374%    |
+| Final balance               | 1529.41   |
+| Final equity                | 1529.41   |
+| Net PNL + fees              | 579.414   |
+| Total gain                  | 61.66%    |
+| Average daily gain          | 0.0936%   |
+| Net PNL + fees              | 579.414   |
+| Loss to profit ratio        | 0.1121    |
+| Price action distance mean  | 0.0150316 |
+| Price action distance std   | 0.0151377 |
+| Price action distance max   | 0.224563  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9542    |
+| Equity/balance ratio std    | 0.002026  |
+| No. fills                   | 1706      |
+| No. entries                 | 989       |
+| No. closes                  | 717       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 989       |
+| No. unstuck/EMA closes      | 378       |
+| No. normal closes           | 339       |
+| Average n fills per day     | 3.35      |
+| Mean hours stuck            | 7.15681   |
+| Max hours stuck             | 91.1833   |
+| PNL sum                     | 585.8     |
+| Profit sum                  | 659.7     |
+| Loss sum                    | -73.93    |
+| Fee sum                     | -6.341    |
+| Volume quote                | 54938.3   |
++-----------------------------+-----------+
