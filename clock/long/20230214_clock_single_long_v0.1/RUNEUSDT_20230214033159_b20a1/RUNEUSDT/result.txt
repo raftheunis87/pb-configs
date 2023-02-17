@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | RUNEUSDT  |
+| Passivbot mode              | clock     |
+| No. days                    | 880.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.307%    |
+| Final balance               | 1864.42   |
+| Final equity                | 1863.13   |
+| Net PNL + fees              | 914.423   |
+| Total gain                  | 96.89%    |
+| Average daily gain          | 0.0767%   |
+| Net PNL + fees              | 914.423   |
+| Loss to profit ratio        | 0.0472    |
+| Price action distance mean  | 0.0267484 |
+| Price action distance std   | 0.0248107 |
+| Price action distance max   | 0.865988  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.8842    |
+| Equity/balance ratio std    | 0.002109  |
+| No. fills                   | 3545      |
+| No. entries                 | 1308      |
+| No. closes                  | 2237      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1308      |
+| No. unstuck/EMA closes      | 2198      |
+| No. normal closes           | 39        |
+| Average n fills per day     | 4.03      |
+| Mean hours stuck            | 5.95656   |
+| Max hours stuck             | 73.5667   |
+| PNL sum                     | 920.5     |
+| Profit sum                  | 966.1     |
+| Loss sum                    | -45.59    |
+| Fee sum                     | -6.037    |
+| Volume quote                | 137587.0  |
++-----------------------------+-----------+

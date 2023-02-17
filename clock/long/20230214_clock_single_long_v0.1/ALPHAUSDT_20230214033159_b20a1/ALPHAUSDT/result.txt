@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | ALPHAUSDT |
+| Passivbot mode              | clock     |
+| No. days                    | 800.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.37%     |
+| Final balance               | 1988.32   |
+| Final equity                | 1986.26   |
+| Net PNL + fees              | 1038.32   |
+| Total gain                  | 109.9%    |
+| Average daily gain          | 0.0924%   |
+| Net PNL + fees              | 1038.32   |
+| Loss to profit ratio        | 0.1668    |
+| Price action distance mean  | 0.0273717 |
+| Price action distance std   | 0.0261045 |
+| Price action distance max   | 0.319952  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9343    |
+| Equity/balance ratio std    | 0.004765  |
+| No. fills                   | 2450      |
+| No. entries                 | 1509      |
+| No. closes                  | 941       |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1509      |
+| No. unstuck/EMA closes      | 800       |
+| No. normal closes           | 141       |
+| Average n fills per day     | 3.06      |
+| Mean hours stuck            | 7.83276   |
+| Max hours stuck             | 43.0      |
+| PNL sum                     | 1044.0    |
+| Profit sum                  | 1253.0    |
+| Loss sum                    | -209.0    |
+| Fee sum                     | -5.278    |
+| Volume quote                | 151179.0  |
++-----------------------------+-----------+

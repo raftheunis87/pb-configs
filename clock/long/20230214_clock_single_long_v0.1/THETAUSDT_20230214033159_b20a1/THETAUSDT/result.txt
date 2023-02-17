@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | THETAUSDT |
+| Passivbot mode              | clock     |
+| No. days                    | 980.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.285%    |
+| Final balance               | 1910.2    |
+| Final equity                | 1909.98   |
+| Net PNL + fees              | 960.198   |
+| Total gain                  | 102.2%    |
+| Average daily gain          | 0.0713%   |
+| Net PNL + fees              | 960.198   |
+| Loss to profit ratio        | 0.2259    |
+| Price action distance mean  | 0.0168516 |
+| Price action distance std   | 0.0241626 |
+| Price action distance max   | 0.527215  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9137    |
+| Equity/balance ratio std    | 0.003455  |
+| No. fills                   | 5178      |
+| No. entries                 | 3551      |
+| No. closes                  | 1627      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 3551      |
+| No. unstuck/EMA closes      | 1520      |
+| No. normal closes           | 107       |
+| Average n fills per day     | 5.29      |
+| Mean hours stuck            | 4.54094   |
+| Max hours stuck             | 53.7      |
+| PNL sum                     | 970.5     |
+| Profit sum                  | 1254.0    |
+| Loss sum                    | -283.1    |
+| Fee sum                     | -10.27    |
+| Volume quote                | 274790.0  |
++-----------------------------+-----------+

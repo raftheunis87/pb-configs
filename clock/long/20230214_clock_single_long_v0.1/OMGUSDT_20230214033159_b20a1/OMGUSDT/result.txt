@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | OMGUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 940.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.326%    |
+| Final balance               | 2049.23   |
+| Final equity                | 2049.22   |
+| Net PNL + fees              | 1099.23   |
+| Total gain                  | 116.9%    |
+| Average daily gain          | 0.0815%   |
+| Net PNL + fees              | 1099.23   |
+| Loss to profit ratio        | 0.1729    |
+| Price action distance mean  | 0.0166101 |
+| Price action distance std   | 0.0198838 |
+| Price action distance max   | 0.54521   |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9118    |
+| Equity/balance ratio std    | 0.002932  |
+| No. fills                   | 4337      |
+| No. entries                 | 2303      |
+| No. closes                  | 2034      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 2303      |
+| No. unstuck/EMA closes      | 1751      |
+| No. normal closes           | 283       |
+| Average n fills per day     | 4.6       |
+| Mean hours stuck            | 5.22221   |
+| Max hours stuck             | 61.9      |
+| PNL sum                     | 1110.0    |
+| Profit sum                  | 1343.0    |
+| Loss sum                    | -232.1    |
+| Fee sum                     | -11.18    |
+| Volume quote                | 155371.0  |
++-----------------------------+-----------+
