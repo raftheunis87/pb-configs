@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | XRPUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 1100.0    |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.224%    |
+| Final balance               | 1779.32   |
+| Final equity                | 1779.32   |
+| Net PNL + fees              | 829.319   |
+| Total gain                  | 88.33%    |
+| Average daily gain          | 0.056%    |
+| Net PNL + fees              | 829.319   |
+| Loss to profit ratio        | 0.09677   |
+| Price action distance mean  | 0.0143666 |
+| Price action distance std   | 0.0158201 |
+| Price action distance max   | 0.326007  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9386    |
+| Equity/balance ratio std    | 0.001551  |
+| No. fills                   | 3770      |
+| No. entries                 | 1852      |
+| No. closes                  | 1918      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1852      |
+| No. unstuck/EMA closes      | 1470      |
+| No. normal closes           | 448       |
+| Average n fills per day     | 3.36      |
+| Mean hours stuck            | 7.13309   |
+| Max hours stuck             | 69.5333   |
+| PNL sum                     | 839.1     |
+| Profit sum                  | 929.0     |
+| Loss sum                    | -89.9     |
+| Fee sum                     | -9.824    |
+| Volume quote                | 149258.0  |
++-----------------------------+-----------+

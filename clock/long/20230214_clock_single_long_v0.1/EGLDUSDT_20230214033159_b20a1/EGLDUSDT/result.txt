@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | EGLDUSDT  |
+| Passivbot mode              | clock     |
+| No. days                    | 870.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.346%    |
+| Final balance               | 2017.28   |
+| Final equity                | 2017.14   |
+| Net PNL + fees              | 1067.28   |
+| Total gain                  | 113.0%    |
+| Average daily gain          | 0.0866%   |
+| Net PNL + fees              | 1067.28   |
+| Loss to profit ratio        | 0.1455    |
+| Price action distance mean  | 0.0258304 |
+| Price action distance std   | 0.0252951 |
+| Price action distance max   | 0.2778    |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9428    |
+| Equity/balance ratio std    | 0.00412   |
+| No. fills                   | 2703      |
+| No. entries                 | 1506      |
+| No. closes                  | 1197      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1506      |
+| No. unstuck/EMA closes      | 911       |
+| No. normal closes           | 286       |
+| Average n fills per day     | 3.11      |
+| Mean hours stuck            | 7.71895   |
+| Max hours stuck             | 51.2333   |
+| PNL sum                     | 1073.0    |
+| Profit sum                  | 1256.0    |
+| Loss sum                    | -182.7    |
+| Fee sum                     | -6.082    |
+| Volume quote                | 174095.0  |
++-----------------------------+-----------+
