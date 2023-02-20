@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | SOLUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 870.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.343%    |
+| Final balance               | 2000.8    |
+| Final equity                | 2000.81   |
+| Net PNL + fees              | 1050.8    |
+| Total gain                  | 111.5%    |
+| Average daily gain          | 0.0857%   |
+| Net PNL + fees              | 1050.8    |
+| Loss to profit ratio        | 0.2175    |
+| Price action distance mean  | 0.025513  |
+| Price action distance std   | 0.0299104 |
+| Price action distance max   | 0.627416  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9036    |
+| Equity/balance ratio std    | 0.004267  |
+| No. fills                   | 2768      |
+| No. entries                 | 1473      |
+| No. closes                  | 1295      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1473      |
+| No. unstuck/EMA closes      | 1215      |
+| No. normal closes           | 80        |
+| Average n fills per day     | 3.18      |
+| Mean hours stuck            | 7.54225   |
+| Max hours stuck             | 60.05     |
+| PNL sum                     | 1059.0    |
+| Profit sum                  | 1353.0    |
+| Loss sum                    | -294.3    |
+| Fee sum                     | -8.367    |
+| Volume quote                | 114319.0  |
++-----------------------------+-----------+
