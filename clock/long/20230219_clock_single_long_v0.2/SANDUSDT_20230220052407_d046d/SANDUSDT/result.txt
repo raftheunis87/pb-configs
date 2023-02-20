@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | SANDUSDT  |
+| Passivbot mode              | clock     |
+| No. days                    | 740.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.459%    |
+| Final balance               | 2618.16   |
+| Final equity                | 2618.13   |
+| Net PNL + fees              | 1668.16   |
+| Total gain                  | 178.8%    |
+| Average daily gain          | 0.138%    |
+| Net PNL + fees              | 1668.16   |
+| Loss to profit ratio        | 0.1892    |
+| Price action distance mean  | 0.0143581 |
+| Price action distance std   | 0.0249672 |
+| Price action distance max   | 0.409002  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9129    |
+| Equity/balance ratio std    | 0.006268  |
+| No. fills                   | 24987     |
+| No. entries                 | 10674     |
+| No. closes                  | 14313     |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 10674     |
+| No. unstuck/EMA closes      | 14037     |
+| No. normal closes           | 276       |
+| Average n fills per day     | 33.9      |
+| Mean hours stuck            | 0.70759   |
+| Max hours stuck             | 10.55     |
+| PNL sum                     | 1699.0    |
+| Profit sum                  | 2096.0    |
+| Loss sum                    | -396.5    |
+| Fee sum                     | -30.87    |
+| Volume quote                | 1183500.0 |
++-----------------------------+-----------+

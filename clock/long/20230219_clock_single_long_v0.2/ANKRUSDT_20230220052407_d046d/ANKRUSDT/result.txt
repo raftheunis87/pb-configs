@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | ANKRUSDT  |
+| Passivbot mode              | clock     |
+| No. days                    | 740.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.275%    |
+| Final balance               | 1741.13   |
+| Final equity                | 1741.13   |
+| Net PNL + fees              | 791.129   |
+| Total gain                  | 84.53%    |
+| Average daily gain          | 0.0824%   |
+| Net PNL + fees              | 791.129   |
+| Loss to profit ratio        | 0.1374    |
+| Price action distance mean  | 0.0112919 |
+| Price action distance std   | 0.0197225 |
+| Price action distance max   | 0.439339  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9084    |
+| Equity/balance ratio std    | 0.003091  |
+| No. fills                   | 9130      |
+| No. entries                 | 3132      |
+| No. closes                  | 5998      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 3132      |
+| No. unstuck/EMA closes      | 5883      |
+| No. normal closes           | 115       |
+| Average n fills per day     | 12.4      |
+| Mean hours stuck            | 1.93403   |
+| Max hours stuck             | 90.8333   |
+| PNL sum                     | 803.0     |
+| Profit sum                  | 930.9     |
+| Loss sum                    | -127.9    |
+| Fee sum                     | -11.88    |
+| Volume quote                | 246785.0  |
++-----------------------------+-----------+
