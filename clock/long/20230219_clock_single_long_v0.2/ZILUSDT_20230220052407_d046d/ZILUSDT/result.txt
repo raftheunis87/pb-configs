@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | ZILUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 960.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.306%    |
+| Final balance               | 2290.23   |
+| Final equity                | 2290.23   |
+| Net PNL + fees              | 1340.23   |
+| Total gain                  | 142.9%    |
+| Average daily gain          | 0.0919%   |
+| Net PNL + fees              | 1340.23   |
+| Loss to profit ratio        | 0.1272    |
+| Price action distance mean  | 0.0119913 |
+| Price action distance std   | 0.0202732 |
+| Price action distance max   | 0.26345   |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9374    |
+| Equity/balance ratio std    | 0.003444  |
+| No. fills                   | 12976     |
+| No. entries                 | 4964      |
+| No. closes                  | 8012      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 4964      |
+| No. unstuck/EMA closes      | 7822      |
+| No. normal closes           | 190       |
+| Average n fills per day     | 13.6      |
+| Mean hours stuck            | 1.77121   |
+| Max hours stuck             | 62.8833   |
+| PNL sum                     | 1357.0    |
+| Profit sum                  | 1555.0    |
+| Loss sum                    | -197.8    |
+| Fee sum                     | -17.13    |
+| Volume quote                | 725532.0  |
++-----------------------------+-----------+
