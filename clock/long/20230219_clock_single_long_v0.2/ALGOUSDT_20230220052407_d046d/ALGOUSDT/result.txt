@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | ALGOUSDT  |
+| Passivbot mode              | clock     |
+| No. days                    | 960.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.363%    |
+| Final balance               | 2697.25   |
+| Final equity                | 2697.63   |
+| Net PNL + fees              | 1747.25   |
+| Total gain                  | 186.9%    |
+| Average daily gain          | 0.109%    |
+| Net PNL + fees              | 1747.25   |
+| Loss to profit ratio        | 0.2082    |
+| Price action distance mean  | 0.0141737 |
+| Price action distance std   | 0.0216719 |
+| Price action distance max   | 0.40836   |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.913     |
+| Equity/balance ratio std    | 0.005679  |
+| No. fills                   | 19814     |
+| No. entries                 | 11083     |
+| No. closes                  | 8731      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 11083     |
+| No. unstuck/EMA closes      | 8453      |
+| No. normal closes           | 278       |
+| Average n fills per day     | 20.6      |
+| Mean hours stuck            | 1.16233   |
+| Max hours stuck             | 47.2333   |
+| PNL sum                     | 1776.0    |
+| Profit sum                  | 2243.0    |
+| Loss sum                    | -466.9    |
+| Fee sum                     | -28.55    |
+| Volume quote                | 1121620.0 |
++-----------------------------+-----------+
