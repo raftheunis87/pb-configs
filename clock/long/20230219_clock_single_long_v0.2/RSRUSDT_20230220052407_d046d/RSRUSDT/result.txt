@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | RSRUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 830.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.383%    |
+| Final balance               | 2476.9    |
+| Final equity                | 2476.9    |
+| Net PNL + fees              | 1526.9    |
+| Total gain                  | 163.0%    |
+| Average daily gain          | 0.115%    |
+| Net PNL + fees              | 1526.9    |
+| Loss to profit ratio        | 0.2429    |
+| Price action distance mean  | 0.0142947 |
+| Price action distance std   | 0.018616  |
+| Price action distance max   | 0.629749  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.884     |
+| Equity/balance ratio std    | 0.002521  |
+| No. fills                   | 7221      |
+| No. entries                 | 3837      |
+| No. closes                  | 3384      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 3837      |
+| No. unstuck/EMA closes      | 2862      |
+| No. normal closes           | 522       |
+| Average n fills per day     | 8.65      |
+| Mean hours stuck            | 2.77151   |
+| Max hours stuck             | 80.5      |
+| PNL sum                     | 1549.0    |
+| Profit sum                  | 2046.0    |
+| Loss sum                    | -496.9    |
+| Fee sum                     | -21.73    |
+| Volume quote                | 261973.0  |
++-----------------------------+-----------+

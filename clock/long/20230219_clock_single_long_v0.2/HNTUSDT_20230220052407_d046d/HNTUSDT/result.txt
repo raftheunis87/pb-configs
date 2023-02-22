@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | HNTUSDT   |
+| Passivbot mode              | clock     |
+| No. days                    | 860.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.493%    |
+| Final balance               | 3366.96   |
+| Final equity                | 3366.96   |
+| Net PNL + fees              | 2416.96   |
+| Total gain                  | 258.2%    |
+| Average daily gain          | 0.148%    |
+| Net PNL + fees              | 2416.96   |
+| Loss to profit ratio        | 0.1313    |
+| Price action distance mean  | 0.0134377 |
+| Price action distance std   | 0.0231639 |
+| Price action distance max   | 0.629097  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.8842    |
+| Equity/balance ratio std    | 0.006054  |
+| No. fills                   | 35014     |
+| No. entries                 | 14566     |
+| No. closes                  | 20448     |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 14566     |
+| No. unstuck/EMA closes      | 19994     |
+| No. normal closes           | 454       |
+| Average n fills per day     | 40.9      |
+| Mean hours stuck            | 0.586552  |
+| Max hours stuck             | 22.9833   |
+| PNL sum                     | 2453.0    |
+| Profit sum                  | 2824.0    |
+| Loss sum                    | -370.8    |
+| Fee sum                     | -35.93    |
+| Volume quote                | 2678900.0 |
++-----------------------------+-----------+
