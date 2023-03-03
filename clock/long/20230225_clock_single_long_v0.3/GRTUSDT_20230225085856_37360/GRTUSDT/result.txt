@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | GRTUSDT    |
+| Passivbot mode              | clock      |
+| No. days                    | 800.0      |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.248%     |
+| Final balance               | 1720.11    |
+| Final equity                | 1720.07    |
+| Net PNL + fees              | 770.111    |
+| Total gain                  | 83.3%      |
+| Average daily gain          | 0.0745%    |
+| Net PNL + fees              | 770.111    |
+| Loss to profit ratio        | 0.2254     |
+| Price action distance mean  | 0.00975779 |
+| Price action distance std   | 0.00959932 |
+| Price action distance max   | 0.224807   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9449     |
+| Equity/balance ratio std    | 0.001614   |
+| No. fills                   | 31447      |
+| No. entries                 | 11484      |
+| No. closes                  | 19963      |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 11484      |
+| No. unstuck/EMA closes      | 18636      |
+| No. normal closes           | 1327       |
+| Average n fills per day     | 39.5       |
+| Mean hours stuck            | 0.60803    |
+| Max hours stuck             | 3.6        |
+| PNL sum                     | 791.4      |
+| Profit sum                  | 1022.0     |
+| Loss sum                    | -230.3     |
+| Fee sum                     | -21.28     |
+| Volume quote                | 564131.0   |
++-----------------------------+------------+

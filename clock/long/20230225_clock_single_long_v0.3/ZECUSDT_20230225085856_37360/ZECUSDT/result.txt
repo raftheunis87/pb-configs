@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | ZECUSDT    |
+| Passivbot mode              | clock      |
+| No. days                    | 1100.0     |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.171%     |
+| Final balance               | 1683.95    |
+| Final equity                | 1683.95    |
+| Net PNL + fees              | 733.946    |
+| Total gain                  | 79.13%     |
+| Average daily gain          | 0.0514%    |
+| Net PNL + fees              | 733.946    |
+| Loss to profit ratio        | 0.1944     |
+| Price action distance mean  | 0.00717144 |
+| Price action distance std   | 0.00846766 |
+| Price action distance max   | 0.234909   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9429     |
+| Equity/balance ratio std    | 0.001011   |
+| No. fills                   | 20609      |
+| No. entries                 | 11674      |
+| No. closes                  | 8935       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 11674      |
+| No. unstuck/EMA closes      | 8861       |
+| No. normal closes           | 74         |
+| Average n fills per day     | 18.5       |
+| Mean hours stuck            | 1.29808    |
+| Max hours stuck             | 40.8333    |
+| PNL sum                     | 751.7      |
+| Profit sum                  | 933.1      |
+| Loss sum                    | -181.4     |
+| Fee sum                     | -17.8      |
+| Volume quote                | 138230.0   |
++-----------------------------+------------+
