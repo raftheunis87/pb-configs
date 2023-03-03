@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | AAVEUSDT   |
+| Passivbot mode              | clock      |
+| No. days                    | 860.0      |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.246%     |
+| Final balance               | 1792.61    |
+| Final equity                | 1792.61    |
+| Net PNL + fees              | 842.609    |
+| Total gain                  | 90.85%     |
+| Average daily gain          | 0.0738%    |
+| Net PNL + fees              | 842.609    |
+| Loss to profit ratio        | 0.185      |
+| Price action distance mean  | 0.00787724 |
+| Price action distance std   | 0.00955954 |
+| Price action distance max   | 0.295536   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9317     |
+| Equity/balance ratio std    | 0.001369   |
+| No. fills                   | 22217      |
+| No. entries                 | 10475      |
+| No. closes                  | 11742      |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 10475      |
+| No. unstuck/EMA closes      | 11464      |
+| No. normal closes           | 278        |
+| Average n fills per day     | 25.8       |
+| Mean hours stuck            | 0.929816   |
+| Max hours stuck             | 43.9833    |
+| PNL sum                     | 863.1      |
+| Profit sum                  | 1059.0     |
+| Loss sum                    | -195.9     |
+| Fee sum                     | -20.51     |
+| Volume quote                | 319277.0   |
++-----------------------------+------------+

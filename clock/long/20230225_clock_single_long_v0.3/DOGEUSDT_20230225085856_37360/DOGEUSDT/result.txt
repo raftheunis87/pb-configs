@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | DOGEUSDT   |
+| Passivbot mode              | clock      |
+| No. days                    | 960.0      |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.601%     |
+| Final balance               | 5347.19    |
+| Final equity                | 5347.2     |
+| Net PNL + fees              | 4397.19    |
+| Total gain                  | 472.5%     |
+| Average daily gain          | 0.18%      |
+| Net PNL + fees              | 4397.19    |
+| Loss to profit ratio        | 0.1747     |
+| Price action distance mean  | 0.00739353 |
+| Price action distance std   | 0.00963029 |
+| Price action distance max   | 0.528493   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.8963     |
+| Equity/balance ratio std    | 0.002063   |
+| No. fills                   | 34236      |
+| No. entries                 | 16491      |
+| No. closes                  | 17745      |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 16491      |
+| No. unstuck/EMA closes      | 17132      |
+| No. normal closes           | 613        |
+| Average n fills per day     | 35.7       |
+| Mean hours stuck            | 0.671969   |
+| Max hours stuck             | 6.98333    |
+| PNL sum                     | 4488.0     |
+| Profit sum                  | 5438.0     |
+| Loss sum                    | -949.9     |
+| Fee sum                     | -91.09     |
+| Volume quote                | 1768340.0  |
++-----------------------------+------------+

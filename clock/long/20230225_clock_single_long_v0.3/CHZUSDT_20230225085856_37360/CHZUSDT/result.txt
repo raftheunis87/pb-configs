@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | CHZUSDT    |
+| Passivbot mode              | clock      |
+| No. days                    | 760.0      |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.333%     |
+| Final balance               | 2038.15    |
+| Final equity                | 2038.24    |
+| Net PNL + fees              | 1088.15    |
+| Total gain                  | 117.5%     |
+| Average daily gain          | 0.1%       |
+| Net PNL + fees              | 1088.15    |
+| Loss to profit ratio        | 0.1995     |
+| Price action distance mean  | 0.0078483  |
+| Price action distance std   | 0.00984437 |
+| Price action distance max   | 0.635921   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.8834     |
+| Equity/balance ratio std    | 0.001475   |
+| No. fills                   | 18646      |
+| No. entries                 | 8218       |
+| No. closes                  | 10428      |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 8218       |
+| No. unstuck/EMA closes      | 10317      |
+| No. normal closes           | 111        |
+| Average n fills per day     | 24.4       |
+| Mean hours stuck            | 0.983039   |
+| Max hours stuck             | 13.25      |
+| PNL sum                     | 1117.0     |
+| Profit sum                  | 1395.0     |
+| Loss sum                    | -278.2     |
+| Fee sum                     | -28.42     |
+| Volume quote                | 423813.0   |
++-----------------------------+------------+

@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | DOTUSDT    |
+| Passivbot mode              | clock      |
+| No. days                    | 920.0      |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.261%     |
+| Final balance               | 1945.07    |
+| Final equity                | 1945.02    |
+| Net PNL + fees              | 995.066    |
+| Total gain                  | 106.8%     |
+| Average daily gain          | 0.0783%    |
+| Net PNL + fees              | 995.066    |
+| Loss to profit ratio        | 0.1879     |
+| Price action distance mean  | 0.00736399 |
+| Price action distance std   | 0.00723662 |
+| Price action distance max   | 0.334501   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9247     |
+| Equity/balance ratio std    | 0.001072   |
+| No. fills                   | 15980      |
+| No. entries                 | 10317      |
+| No. closes                  | 5663       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 10317      |
+| No. unstuck/EMA closes      | 5434       |
+| No. normal closes           | 229        |
+| Average n fills per day     | 17.5       |
+| Mean hours stuck            | 1.3752     |
+| Max hours stuck             | 10.6333    |
+| PNL sum                     | 1014.0     |
+| Profit sum                  | 1249.0     |
+| Loss sum                    | -234.6     |
+| Fee sum                     | -19.28     |
+| Volume quote                | 250415.0   |
++-----------------------------+------------+

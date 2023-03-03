@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | KSMUSDT    |
+| Passivbot mode              | clock      |
+| No. days                    | 860.0      |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.366%     |
+| Final balance               | 2447.84    |
+| Final equity                | 2447.9     |
+| Net PNL + fees              | 1497.84    |
+| Total gain                  | 160.9%     |
+| Average daily gain          | 0.11%      |
+| Net PNL + fees              | 1497.84    |
+| Loss to profit ratio        | 0.1956     |
+| Price action distance mean  | 0.00742353 |
+| Price action distance std   | 0.00856536 |
+| Price action distance max   | 0.454028   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9063     |
+| Equity/balance ratio std    | 0.001327   |
+| No. fills                   | 11695      |
+| No. entries                 | 7276       |
+| No. closes                  | 4419       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 7276       |
+| No. unstuck/EMA closes      | 4323       |
+| No. normal closes           | 96         |
+| Average n fills per day     | 13.6       |
+| Mean hours stuck            | 1.77038    |
+| Max hours stuck             | 43.8667    |
+| PNL sum                     | 1528.0     |
+| Profit sum                  | 1900.0     |
+| Loss sum                    | -371.7     |
+| Fee sum                     | -30.4      |
+| Volume quote                | 258339.0   |
++-----------------------------+------------+

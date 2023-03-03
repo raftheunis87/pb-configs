@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | ETCUSDT    |
+| Passivbot mode              | clock      |
+| No. days                    | 1100.0     |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.27%      |
+| Final balance               | 2382.43    |
+| Final equity                | 2382.47    |
+| Net PNL + fees              | 1432.43    |
+| Total gain                  | 153.5%     |
+| Average daily gain          | 0.0811%    |
+| Net PNL + fees              | 1432.43    |
+| Loss to profit ratio        | 0.1839     |
+| Price action distance mean  | 0.00689276 |
+| Price action distance std   | 0.00731708 |
+| Price action distance max   | 0.498802   |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.8999     |
+| Equity/balance ratio std    | 0.0009205  |
+| No. fills                   | 17882      |
+| No. entries                 | 11029      |
+| No. closes                  | 6853       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 11029      |
+| No. unstuck/EMA closes      | 6518       |
+| No. normal closes           | 335        |
+| Average n fills per day     | 15.8       |
+| Mean hours stuck            | 1.5229     |
+| Max hours stuck             | 7.11667    |
+| PNL sum                     | 1458.0     |
+| Profit sum                  | 1787.0     |
+| Loss sum                    | -328.6     |
+| Fee sum                     | -26.0      |
+| Volume quote                | 292585.0   |
++-----------------------------+------------+
