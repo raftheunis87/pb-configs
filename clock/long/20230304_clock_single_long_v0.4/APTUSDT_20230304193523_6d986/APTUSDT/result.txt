@@ -1,0 +1,44 @@
++------------------------------------------+
+|                 Summary                  |
++-----------------------------+------------+
+| Metric                      | Value      |
++-----------------------------+------------+
+| Exchange                    | bybit      |
+| Market type                 | futures    |
+| Symbol                      | APTUSDT    |
+| Passivbot mode              | clock      |
+| No. days                    | 130.0      |
+| Starting balance            | 950.0      |
+|                             |            |
+| Long                        | True       |
+| ADG realized per exposure   | 0.397%     |
+| Final balance               | 1115.61    |
+| Final equity                | 1115.58    |
+| Net PNL + fees              | 165.608    |
+| Total gain                  | 17.83%     |
+| Average daily gain          | 0.119%     |
+| Net PNL + fees              | 165.608    |
+| Loss to profit ratio        | 0.1549     |
+| Price action distance mean  | 0.010702   |
+| Price action distance std   | 0.00910236 |
+| Price action distance max   | 0.0637913  |
+| Closest bankruptcy          | 100.0%     |
+| Lowest equity/balance ratio | 0.9762     |
+| Equity/balance ratio std    | 0.001159   |
+| No. fills                   | 3077       |
+| No. entries                 | 1378       |
+| No. closes                  | 1699       |
+| No. initial entries         | 0          |
+| No. reentries               | 0          |
+| No. unstuck/EMA entries     | 1378       |
+| No. unstuck/EMA closes      | 1617       |
+| No. normal closes           | 82         |
+| Average n fills per day     | 22.8       |
+| Mean hours stuck            | 1.05217    |
+| Max hours stuck             | 8.36667    |
+| PNL sum                     | 169.4      |
+| Profit sum                  | 200.5      |
+| Loss sum                    | -31.05     |
+| Fee sum                     | -3.796     |
+| Volume quote                | 71026.8    |
++-----------------------------+------------+

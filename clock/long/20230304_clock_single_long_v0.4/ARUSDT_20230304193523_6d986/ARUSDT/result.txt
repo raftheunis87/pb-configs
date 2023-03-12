@@ -1,0 +1,44 @@
++-----------------------------------------+
+|                 Summary                 |
++-----------------------------+-----------+
+| Metric                      | Value     |
++-----------------------------+-----------+
+| Exchange                    | bybit     |
+| Market type                 | futures   |
+| Symbol                      | ARUSDT    |
+| Passivbot mode              | clock     |
+| No. days                    | 520.0     |
+| Starting balance            | 950.0     |
+|                             |           |
+| Long                        | True      |
+| ADG realized per exposure   | 0.368%    |
+| Final balance               | 1688.67   |
+| Final equity                | 1688.67   |
+| Net PNL + fees              | 738.668   |
+| Total gain                  | 78.91%    |
+| Average daily gain          | 0.111%    |
+| Net PNL + fees              | 738.668   |
+| Loss to profit ratio        | 0.12      |
+| Price action distance mean  | 0.0116153 |
+| Price action distance std   | 0.0137362 |
+| Price action distance max   | 0.206097  |
+| Closest bankruptcy          | 100.0%    |
+| Lowest equity/balance ratio | 0.9486    |
+| Equity/balance ratio std    | 0.002115  |
+| No. fills                   | 3950      |
+| No. entries                 | 1903      |
+| No. closes                  | 2047      |
+| No. initial entries         | 0         |
+| No. reentries               | 0         |
+| No. unstuck/EMA entries     | 1903      |
+| No. unstuck/EMA closes      | 1805      |
+| No. normal closes           | 242       |
+| Average n fills per day     | 7.58      |
+| Mean hours stuck            | 3.16348   |
+| Max hours stuck             | 87.5167   |
+| PNL sum                     | 749.6     |
+| Profit sum                  | 851.9     |
+| Loss sum                    | -102.2    |
+| Fee sum                     | -10.98    |
+| Volume quote                | 153927.0  |
++-----------------------------+-----------+
