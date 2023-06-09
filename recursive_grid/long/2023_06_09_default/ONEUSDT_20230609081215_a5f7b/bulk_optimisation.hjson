@@ -1,0 +1,113 @@
+{
+  "harmony_config_file": "../configs/optimize/default.hjson",
+  "backtest_config_file": "../configs/backtest/default.hjson",
+  "coin_list": [
+    {
+      "coin": "CELRUSDT"
+    },
+    {
+      "coin": "ONEUSDT"
+    },
+    {
+      "coin": "HBARUSDT"
+    },
+    {
+      "coin": "MANAUSDT"
+    },
+    {
+      "coin": "CHRUSDT"
+    },
+    {
+      "coin": "COTIUSDT"
+    },
+    {
+      "coin": "ANKRUSDT"
+    },
+    {
+      "coin": "SANDUSDT"
+    },
+    {
+      "coin": "CHZUSDT"
+    },
+    {
+      "coin": "GRTUSDT"
+    },
+    {
+      "coin": "SKLUSDT"
+    },
+    {
+      "coin": "MATICUSDT"
+    },
+    {
+      "coin": "RSRUSDT"
+    },
+    {
+      "coin": "AAVEUSDT"
+    },
+    {
+      "coin": "ENJUSDT"
+    },
+    {
+      "coin": "FTMUSDT"
+    },
+    {
+      "coin": "UNIUSDT"
+    },
+    {
+      "coin": "SUSHIUSDT"
+    },
+    {
+      "coin": "DOTUSDT"
+    },
+    {
+      "coin": "SNXUSDT"
+    },
+    {
+      "coin": "SXPUSDT"
+    },
+    {
+      "coin": "DOGEUSDT"
+    },
+    {
+      "coin": "ZILUSDT"
+    },
+    {
+      "coin": "THETAUSDT"
+    },
+    {
+      "coin": "VETUSDT"
+    },
+    {
+      "coin": "ATOMUSDT"
+    },
+    {
+      "coin": "XTZUSDT"
+    },
+    {
+      "coin": "ADAUSDT"
+    },
+    {
+      "coin": "LINKUSDT"
+    }
+  ],
+  "override_bt_and_opti": {
+    "starting_balance": 1050.0,
+    "start_date": "2020-01-01",
+    "end_date": "2023-06-01",
+    "slim_analysis": false,
+    "enable_interactive_plot": false
+  },
+  "override_harmony_config": {
+    "algorithm": "h",
+    "n_cpus": 48,
+    "iters": 20000,
+    "do_short": false,
+    "passivbot_mode": "recursive_grid",
+    "strategies_long_and_short": {},
+    "strategies_long": {
+      "wallet_exposure_limit": [0.2, 0.2]
+    },
+    "strategies_short": {}
+  }
+}
+
