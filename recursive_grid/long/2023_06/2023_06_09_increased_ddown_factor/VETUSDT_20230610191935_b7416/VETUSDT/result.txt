@@ -1,0 +1,48 @@
++-------------------------------------------------+
+|                     Summary                     |
++--------------------------------+----------------+
+| Metric                         | Value          |
++--------------------------------+----------------+
+| Exchange                       | binance        |
+| Market type                    | futures        |
+| Symbol                         | VETUSDT        |
+| Passivbot mode                 | recursive_grid |
+| ADG n subdivisions             | 10             |
+| No. days                       | 1200.0         |
+| Starting balance               | 1050.0         |
+|                                |                |
+| Long                           | True           |
+| ADG per exposure               | 0.22%          |
+| ADG weighted per exposure      | 0.08%          |
+| Final balance                  | 1781.61        |
+| Final equity                   | 1781.44        |
+| Net PNL + fees                 | 731.614        |
+| Net Total gain                 | 69.68%         |
+| Average daily gain             | 0.044%         |
+| Average daily gain weighted    | 0.016%         |
+| Loss to profit ratio           | 0.08064        |
+| Exposure ratios mean           | 0.032955       |
+| Price action distance mean     | 0.0125532      |
+| Price action distance std      | 0.0192887      |
+| Price action distance max      | 0.709548       |
+| Closest bankruptcy             | 100.0%         |
+| Lowest equity/balance ratio    | 0.915          |
+| Mean of 10 worst eq/bal ratios | 0.9309         |
+| Equity/balance ratio std       | 0.001744       |
+| No. fills                      | 15074          |
+| No. entries                    | 8012           |
+| No. closes                     | 7062           |
+| No. initial entries            | 6112           |
+| No. reentries                  | 1572           |
+| No. unstuck/EMA entries        | 328            |
+| No. unstuck/EMA closes         | 278            |
+| No. normal closes              | 6784           |
+| Average n fills per day        | 12.5           |
+| Mean hours stuck               | 1.91205        |
+| Max hours stuck                | 91.3333        |
+| PNL sum                        | 773.3          |
+| Profit sum                     | 841.2          |
+| Loss sum                       | -67.83         |
+| Fee sum                        | -41.73         |
+| Volume quote                   | 408395.0       |
++--------------------------------+----------------+
