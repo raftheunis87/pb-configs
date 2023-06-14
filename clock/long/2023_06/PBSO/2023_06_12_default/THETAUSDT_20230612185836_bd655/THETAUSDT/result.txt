@@ -1,0 +1,48 @@
++---------------------------------------------+
+|                   Summary                   |
++--------------------------------+------------+
+| Metric                         | Value      |
++--------------------------------+------------+
+| Exchange                       | binance    |
+| Market type                    | futures    |
+| Symbol                         | THETAUSDT  |
+| Passivbot mode                 | clock      |
+| ADG n subdivisions             | 10         |
+| No. days                       | 1100.0     |
+| Starting balance               | 1216.0     |
+|                                |            |
+| Long                           | True       |
+| ADG per exposure               | 0.196%     |
+| ADG weighted per exposure      | 0.144%     |
+| Final balance                  | 2901.2     |
+| Final equity                   | 2812.35    |
+| Net PNL + fees                 | 1685.2     |
+| Net Total gain                 | 138.6%     |
+| Average daily gain             | 0.0784%    |
+| Average daily gain weighted    | 0.0576%    |
+| Loss to profit ratio           | 0.02644    |
+| Exposure ratios mean           | 0.0733     |
+| Price action distance mean     | 0.00914926 |
+| Price action distance std      | 0.0180751  |
+| Price action distance max      | 0.517237   |
+| Closest bankruptcy             | 100.0%     |
+| Lowest equity/balance ratio    | 0.8636     |
+| Mean of 10 worst eq/bal ratios | 0.893      |
+| Equity/balance ratio std       | 0.005276   |
+| No. fills                      | 33479      |
+| No. entries                    | 17913      |
+| No. closes                     | 15566      |
+| No. initial entries            | 0          |
+| No. reentries                  | 0          |
+| No. unstuck/EMA entries        | 17913      |
+| No. unstuck/EMA closes         | 1527       |
+| No. normal closes              | 14039      |
+| Average n fills per day        | 30.2       |
+| Mean hours stuck               | 0.795318   |
+| Max hours stuck                | 37.3333    |
+| PNL sum                        | 1814.0     |
+| Profit sum                     | 1863.0     |
+| Loss sum                       | -49.27     |
+| Fee sum                        | -128.6     |
+| Volume quote                   | 1577810.0  |
++--------------------------------+------------+

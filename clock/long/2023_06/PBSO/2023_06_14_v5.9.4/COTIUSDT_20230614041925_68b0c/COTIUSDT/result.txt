@@ -1,0 +1,48 @@
++--------------------------------------------+
+|                  Summary                   |
++--------------------------------+-----------+
+| Metric                         | Value     |
++--------------------------------+-----------+
+| Exchange                       | binance   |
+| Market type                    | futures   |
+| Symbol                         | COTIUSDT  |
+| Passivbot mode                 | clock     |
+| ADG n subdivisions             | 10        |
+| No. days                       | 820.0     |
+| Starting balance               | 1216.0    |
+|                                |           |
+| Long                           | True      |
+| ADG per exposure               | 0.217%    |
+| ADG weighted per exposure      | 0.162%    |
+| Final balance                  | 2481.32   |
+| Final equity                   | 2481.34   |
+| Net PNL + fees                 | 1265.32   |
+| Net Total gain                 | 104.1%    |
+| Average daily gain             | 0.0866%   |
+| Average daily gain weighted    | 0.065%    |
+| Loss to profit ratio           | 0.1442    |
+| Exposure ratios mean           | 0.060772  |
+| Price action distance mean     | 0.0155347 |
+| Price action distance std      | 0.0161916 |
+| Price action distance max      | 0.550059  |
+| Closest bankruptcy             | 100.0%    |
+| Lowest equity/balance ratio    | 0.858     |
+| Mean of 10 worst eq/bal ratios | 0.9088    |
+| Equity/balance ratio std       | 0.003441  |
+| No. fills                      | 2808      |
+| No. entries                    | 1963      |
+| No. closes                     | 845       |
+| No. initial entries            | 0         |
+| No. reentries                  | 0         |
+| No. unstuck/EMA entries        | 1963      |
+| No. unstuck/EMA closes         | 825       |
+| No. normal closes              | 20        |
+| Average n fills per day        | 3.41      |
+| Mean hours stuck               | 7.0388    |
+| Max hours stuck                | 62.1      |
+| PNL sum                        | 1285.0    |
+| Profit sum                     | 1502.0    |
+| Loss sum                       | -216.5    |
+| Fee sum                        | -19.83    |
+| Volume quote                   | 123143.0  |
++--------------------------------+-----------+
