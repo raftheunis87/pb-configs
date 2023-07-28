@@ -26,7 +26,7 @@
   maximum_hrs_stuck_max_long: 96.0
   maximum_hrs_stuck_max_short: 96.0
 
-  minimum_eqbal_ratio_mean_of_10_worst_long: 0.75  # max 25% drawdown
+  minimum_eqbal_ratio_mean_of_10_worst_long: 0.75
   minimum_eqbal_ratio_mean_of_10_worst_short: 0.5
 
   maximum_eqbal_ratio_std_long: 0.025
